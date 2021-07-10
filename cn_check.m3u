@@ -38,9 +38,9 @@ http://117.169.124.46:6410/ysten-businessmobile/live/hdcctv05plus/1.m3u8
 #EXTINF:-1,CCTV-5+ 体育赛事 高清
 http://39.135.138.8:6610/PLTV/88888888/224/3221225706/2/index.m3u8?fmt=ts2hls
 #EXTINF:-1,CCTV-6
-http://117.169.124.36:6610/ysten-businessmobile/live/cctv-6/1.m3u8
-#EXTINF:-1,CCTV-6
 http://223.110.243.139/PLTV/3/224/3221225548/index.m3u8
+#EXTINF:-1,CCTV-6
+http://117.169.124.36:6610/ysten-businessmobile/live/cctv-6/1.m3u8
 #EXTINF:-1,CCTV-6 电影 高清
 http://39.135.138.8:6610/PLTV/88888888/224/3221225632/2/index.m3u8?fmt=ts2hls
 #EXTINF:-1,CCTV-7 国防军事 高清
@@ -209,8 +209,6 @@ http://39.135.138.60:18890/PLTV/88888910/224/3221225768/index.m3u8
 http://39.135.138.5:6610/PLTV/88888888/224/3221225711/2/index.m3u8
 #EXTINF:-1,NewTV金牌综艺
 http://39.135.138.60:18890/PLTV/88888910/224/3221225711/index.m3u8
-#EXTINF:-1,Nippon TV News24 Japan
-https://n24-cdn-live.ntv.co.jp/ch01/index.m3u8
 #EXTINF:-1,RFI 法國國際廣播電臺
 https://rfienchinois64k.ice.infomaniak.ch/rfienchinois-64.mp3
 #EXTINF:-1,SBS International
@@ -354,9 +352,9 @@ http://223.110.245.138/PLTV/3/224/3221226922/index.m3u8
 #EXTINF:-1,凤凰中文台
 http://117.169.124.43:6610/ysten-businessmobile/live/fhchinese/index.m3u8
 #EXTINF:-1,凤凰资讯
-http://117.169.124.37:6610/ysten-businessmobile/live/fhzixun/1.m3u8
-#EXTINF:-1,凤凰资讯
 http://117.169.124.43:6610/ysten-businessmobile/live/fhzixun/index.m3u8
+#EXTINF:-1,凤凰资讯
+http://117.169.124.37:6610/ysten-businessmobile/live/fhzixun/1.m3u8
 #EXTINF:-1,凤凰资讯
 http://223.110.245.136/PLTV/3/224/3221226923/index.m3u8
 #EXTINF:-1,凤凰香港
@@ -481,8 +479,6 @@ http://183.207.248.71:80/cntv/live1/HD-2500k-1080P-tianjinstv/HD-2500k-1080P-tia
 http://39.135.138.8:6610/PLTV/88888888/224/3221225698/2/index.m3u8?fmt=ts2hls
 #EXTINF:-1,央视新闻·正直播
 https://newsalic.v.myalicdn.com:443/news/news10_1/index.m3u8
-#EXTINF:-1,好消息电视台
-http://live-350k.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch2-1.m3u8
 #EXTINF:-1,孝义新闻综合
 http://app.xygdcm.com:2036/live/stream:xy1.stream/playlist.m3u8
 #EXTINF:-1,宁夏卫视
@@ -655,6 +651,8 @@ http://ott-iptv.top/gwzb/QQ:2301366939/xinjiang/xinjiang.php?id=1
 http://140.207.241.2:8080/live/program/live/xsjhd/4000000/mnf.m3u8
 #EXTINF:-1,日本-CGNTV
 http://cgntv-glive.ofsdelivery.net/live/_definst_/cgntv_jp/playlist.m3u8
+#EXTINF:-1,日本-NTV NEWS24
+https://www.news24.jp/livestream/index.m3u8
 #EXTINF:-1,日本NHK华语
 https://nhkw-zh-hlscomp.akamaized.net/8thz5iufork8wjip/playlist.m3u8
 #EXTINF:-1,晋江公共HD
@@ -749,6 +747,8 @@ http://39.135.138.8:6610/PLTV/88888888/224/3221225611/2/index.m3u8?fmt=ts2hls
 http://static.france24.com/live/F24_EN_LO_HLS/live_web.m3u8#http://f24hls-i.akamaihd.net/hls/live/221193-b/F24_EN_LO_HLS/master.m3u8http://f24hls-i.akamaihd.net/hls/live/221193/F24_EN_LO_HLS/master.m3u8#http://f24hls-i.akamaihd.net/hls/live/221192/F24_FR_LO_HLS/master.m3u8
 #EXTINF:-1,法语-TV5 Monde Info
 http://v3plusinfo247hls-i.akamaihd.net/hls/live/218877/v3plusinfo247hls/index.m3u8
+#EXTINF:-1,洛阳综合
+http://live1.lytv.com.cn:1935/live/LYTV1-1/playlist.m3u8
 #EXTINF:-1,浙江-丽水仙都风景区
 https://gcalic.v.myalicdn.com/gc/xdfjq01_1/index.m3u8?contentid=2820180516001
 #EXTINF:-1,浙江-乌镇全景
@@ -1051,8 +1051,6 @@ http://39.135.138.8:6610/PLTV/88888888/224/3221225690/2/index.m3u8?fmt=ts2hls
 http://live.qxndt.com/channel2/sd/live.m3u8
 #EXTINF:-1,龙江卫视
 http://39.134.116.30:8080/PLTV/88888910/224/3221225690/index.m3u8
-#EXTINF:-1 ,TVB 星河台 Xing He
-http://50.7.161.82:8278/streams/d/Xinhe/playlist.m3u8
 #EXTINF:-1 ,ViuTV (备)
 http://61.238.6.49:8000/bysid/99
 #EXTINF:-1 ,ViuTVsix
@@ -1075,20 +1073,18 @@ http://223.110.236.2/ott.js.chinamobile.com/PLTV/3/224/3221228060/index.m3u8$JS1
 http://61.244.22.4/ch1/ch1.live/playelist.m3u8
 #EXTINF:-1 ,澳视葡文
 http://61.244.22.4/ch2/ch2.live/chunklist_w1632175875.m3u8
+#EXTINF:-1 ,澳视资讯
+http://61.244.22.5/ch5/info_ch5.live/master.m3u8
 #EXTINF:-1 ,澳门2台
 http://61.244.22.4/ch2/ch2.live/playelist.m3u8
 #EXTINF:-1 ,澳门3台
 http://61.244.22.4/ch3/ch3.live/playelist.m3u8
-#EXTINF:-1 ,澳门卫星
-http://61.244.22.5/ch3/_definst_/ch3.live/playlist.m3u8
-#EXTINF:-1 ,澳门卫视
-http://61.244.22.5/ch3/ch3.live/chunklist_w1228316132.m3u8
 #EXTINF:-1 ,耀才財經台1
 http://202.69.67.66:443/webcast/bshdlive-pc/playlist.m3u8?wowzasessionid=64000
 #EXTINF:-1 ,耀才财经
-http://202.69.67.66:443/webcast/bshdlive-mobile/playlist.m3u8
-#EXTINF:-1 ,耀才财经
 http://202.69.67.66:443/webcast/bshdlive-pc/playlist.m3u8
+#EXTINF:-1 ,耀才财经
+http://202.69.67.66:443/webcast/bshdlive-mobile/playlist.m3u8
 #EXTINF:-1 ,风凰资讯
 https://liveprodeuwest.akamaized.net/eu1/Channel-EUTVqvs-AWS-ireland-1/Source-EUTVqvs-240-1_live.m3u8
 #EXTINF:-1 ,香港C+
@@ -1097,10 +1093,14 @@ http://gslbmeiah.cdn.hk.chinamobile.com/livehls/MOB-U1-NO/03.m3u8
 https://myun-hw-s3.myun.tv/melj80jz/lxx27bol/1551285536499984128.m3u8
 #EXTINF:-1 ,香港電台普通話台
 https://rthkaudio6-lh.akamaihd.net/i/radiopth_1@355869/index_56_a-p.m3u8
+#EXTINF:-1 ,香港電台視像新聞直播
+https://rthkcnews-lh.akamaihd.net/i/rthknews_1@312607/index_190000011_av-b.m3u8
 #EXTINF:-1 ,AnimalPlanet
 https://www.livedoomovie.com/02_AnimalPlanet/chunklist.m3u8
 #EXTINF:-1 ,Asian Food Network
 https://livecdn.fptplay.net/world/afchd_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 ,BBC Earth
+https://livecdn.fptplay.net/qnetlive/bbcearth_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 ,DiscoveryHDWorld
 https://www.livedoomovie.com/02_DiscoveryHDWorld/chunklist.m3u8
 #EXTINF:-1 ,Fox Sport1
@@ -1109,8 +1109,6 @@ https://www.livedoomovie.com/02_foxsport_720p/chunklist.m3u8
 https://www.livedoomovie.com/02_FoxSport2_TH_720p/chunklist.m3u8
 #EXTINF:-1 ,Fox Sport3
 https://www.livedoomovie.com/02_FoxSport3_TH_720p/chunklist.m3u8
-#EXTINF:-1 ,Fox Sports 1 Asia
-https://livecdn.fptplay.net/qnetlive/foxsports_2000.stream/chunklist.m3u8
 #EXTINF:-1 ,Golf HD
 https://www.livedoomovie.com/02_golfhd_720p/chunklist.m3u8
 #EXTINF:-1 ,H2 HD
