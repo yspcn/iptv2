@@ -219,8 +219,6 @@ http://117.156.28.119/270000001111/1110000028/index.m3u8
 https://live.funhillrm.com/2/playlist.m3u8
 #EXTINF:-1 tvg-id="FeiCuiTai81.hk" tvg-name="翡翠台（81）" tvg-country="HK" tvg-language="Chinese;Yue Chinese" tvg-logo="http://img.tvb.com/corporate/_fck_/image/Jade_logo_L(1).jpg" group-title="",翡翠台（81）
 http://61.238.6.49:8000/bysid/1
-#EXTINF:-1 tvg-id="FengHuangDianYing.cn" tvg-name="凤凰电影" tvg-country="CN" tvg-language="Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/a/a0/Phoenix_Movies.svg/200px-Phoenix_Movies.svg.png" group-title="",凤凰电影
-https://www.fanmingming.cn/hls/fhdy.m3u8
 #EXTINF:-1 tvg-id="FengHuangZiXun.hk" tvg-name="鳳凰資訊" tvg-country="HK" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/1/16/Phoenix_InfoNews.svg/1200px-Phoenix_InfoNews.svg.png" group-title="News",鳳凰衛視資訊台HD
 http://117.169.120.138:8080/live/fhzixun/.m3u8
 #EXTINF:-1 tvg-id="FengTaiWenHuaShengHuo.cn" tvg-name="凤台文化生活" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="",凤台文化生活 (576p)
@@ -391,10 +389,16 @@ https://lylive-videorent.cdn.hinet.net/out/u/live/gop4/ly/ly-Live2/hls-cl-tv/ind
 https://lylive-videorent.cdn.hinet.net/out/u/live/gop4/ly/ly-Live6/hls-cl-tv/index.m3u8
 #EXTINF:-1 tvg-id="LiFaYuanIVODZhiBoJiaoYuJiWenHuaWeiYuanHui.tw" tvg-name="立法院IVOD直播教育及文化委員會" tvg-country="TW" tvg-language="Chinese" tvg-logo="https://i.imgur.com/PxYhFpb.png" group-title="Legislative",立法院IVOD直播教育及文化委員會 (450p)
 https://lylive-videorent.cdn.hinet.net/out/u/live/gop4/ly/ly-Live4/hls-cl-tv/index.m3u8
+#EXTINF:-1 tvg-id="LiFaYuanIVODZhiBoJingJiWeiYuanHui.tw" tvg-name="立法院IVOD直播經濟委員會" tvg-country="TW" tvg-language="Chinese" tvg-logo="https://i.imgur.com/PxYhFpb.png" group-title="Legislative",立法院IVOD直播經濟委員會 (450p)
+https://lylive-videorent.cdn.hinet.net/out/u/live/gop4/ly/ly-Live5/hls-cl-tv/index.m3u8
+#EXTINF:-1 tvg-id="LiFaYuanIVODZhiBoNeiZhengWeiYuanHui.tw" tvg-name="立法院IVOD直播內政委員會" tvg-country="TW" tvg-language="Chinese" tvg-logo="https://i.imgur.com/PxYhFpb.png" group-title="Legislative",立法院IVOD直播內政委員會 (450p)
+https://lylive-videorent.cdn.hinet.net/out/u/live/gop4/ly/ly-Live7/hls-cl-tv/index.m3u8
 #EXTINF:-1 tvg-id="LiFaYuanIVODZhiBoSheHuiFuLiJiWeiShengHuanJingWeiYuanHui.tw" tvg-name="立法院IVOD直播社會福利及衛生環境委員會" tvg-country="TW" tvg-language="Chinese" tvg-logo="https://i.imgur.com/PxYhFpb.png" group-title="Legislative",立法院IVOD直播社會福利及衛生環境委員會 (450p)
 https://lylive-videorent.cdn.hinet.net/out/u/live/gop4/ly/ly-Live3/hls-cl-tv/index.m3u8
 #EXTINF:-1 tvg-id="LiFaYuanIVODZhiBoSiFaJiFaZhiWeiYuanHui.tw" tvg-name="立法院IVOD直播司法及法制委員會" tvg-country="TW" tvg-language="Chinese" tvg-logo="https://i.imgur.com/PxYhFpb.png" group-title="Legislative",立法院IVOD直播司法及法制委員會 (450p)
 https://lylive-videorent.cdn.hinet.net/out/u/live/gop4/ly/ly-Live9/hls-cl-tv/index.m3u8
+#EXTINF:-1 tvg-id="LiFaYuanIVODZhiBoWaiJiaoJiGuoFangWeiYuanHui.tw" tvg-name="立法院IVOD直播外交及國防委員會" tvg-country="TW" tvg-language="Chinese" tvg-logo="https://i.imgur.com/PxYhFpb.png" group-title="Legislative",立法院IVOD直播外交及國防委員會 (450p)
+https://lylive-videorent.cdn.hinet.net/out/u/live/gop4/ly/ly-Live8/hls-cl-tv/index.m3u8
 #EXTINF:-1 tvg-id="LiFaYuanIVODZhiBoYuanHui.tw" tvg-name="立法院IVOD直播院會" tvg-country="TW" tvg-language="Chinese" tvg-logo="https://i.imgur.com/PxYhFpb.png" group-title="Legislative",立法院IVOD直播院會 (450p)
 https://lylive-videorent.cdn.hinet.net/out/u/live/gop4/ly/ly-Live1/hls-cl-tv/index.m3u8
 #EXTINF:-1 tvg-id="LiFaYuanIVODZhiBoZhaoYeXieShang.tw" tvg-name="立法院IVOD直播朝野協商" tvg-country="TW" tvg-language="Chinese" tvg-logo="https://i.imgur.com/PxYhFpb.png" group-title="Legislative",立法院IVOD直播朝野協商 (450p)
@@ -549,10 +553,12 @@ http://seb.sason.top/sc/tsxw_fhd.m3u8
 http://seb.sason.top/sc/tsxw_fhd.m3u8
 #EXTINF:-1 tvg-id="TianJinWeiShiGaoQing.cn" tvg-name="天津卫视高清" tvg-country="CN" tvg-language="Chinese" tvg-logo="https://parco-zh.github.io/demo/TJWS.png" group-title="",天津卫视高清
 http://ivi.bupt.edu.cn/hls/tjhd.m3u8
+#EXTINF:-1 tvg-id="TianYingJingDianPin.cn" tvg-name="天映经典频" tvg-country="CN" tvg-language="Chinese" tvg-logo="http://console.celestialtiger.com/images/upload/ec697ac53e8b3f6607cf7aeaf42a47c2da5a7607.png" group-title="",天映经典频
+https://liveanevia.mncnow.id/live/eds/CelestialClassic/sa_dash_vmx/CelestialClassic.mpd
+#EXTINF:-1 tvg-id="TianYingPinDao.cn" tvg-name="天映频道" tvg-country="CN" tvg-language="Chinese" tvg-logo="http://console.celestialtiger.com/images/upload/f50f7261d3c260ac6e3a38f85152b3f33833fc52.png" group-title="",天映频道
+https://liveanevia.mncnow.id/live/eds/CelestialMovie/sa_dash_vmx/CelestialMovie.mpd
 #EXTINF:-1 tvg-id="TongZhouDianShiTai.cn" tvg-name="通州电视台" tvg-country="CN" tvg-language="Chinese" tvg-logo="http://www.dayuntongzhou.com/web/style/images/logo.png" group-title="",通州电视台
 http://pull.dayuntongzhou.com/live/tztv.m3u8
-#EXTINF:-1 tvg-id="ViuTV.hk" tvg-name="ViuTV" tvg-country="HK" tvg-language="Chinese;Yue Chinese" tvg-logo="http://aaaa.com.hk/main/wp-content/uploads/2020/02/ViuTV-logo.png" group-title="",ViuTV
-https://cdn.hkdtmb.com/hls/99/index.m3u8
 #EXTINF:-1 tvg-id="WanShengXinWenZongHe.cn" tvg-name="万盛新闻综合" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="",万盛新闻综合 (576p)
 http://qxlmlive.cbg.cn:1935/app_2/ls_40.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="WanZhouSanXiaYiMin.cn" tvg-name="万州三峡移民" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="",万州三峡移民
@@ -561,6 +567,8 @@ http://123.146.162.24:8013/tslslive/PU2vzMI/hls/live_sd.m3u8
 http://123.146.162.24:8013/tslslive/vWlnEzU/hls/live_sd.m3u8
 #EXTINF:-1 tvg-id="WeiShiDianYing.cn" tvg-name="衛視電影" tvg-country="CN" tvg-language="Chinese" tvg-logo="https://www.fng.tw/scm/images/StarChinesMovies_logo.png" group-title="",衛視電影
 https://liveanevia.mncnow.id/live/eds/SCM/sa_dash_vmx/SCM.mpd
+#EXTINF:-1 tvg-id="WeiShiQiaShi.cn" tvg-name="衛視卡式" tvg-country="CN" tvg-language="Chinese" tvg-logo="https://www.nowtv.now.com/media/logo/140-wbg-e.png" group-title="",衛視卡式
+https://liveanevia.mncnow.id/live/eds/SCMlegend/sa_dash_vmx/SCMlegend.mpd
 #EXTINF:-1 tvg-id="WeiXinDianShi.cn" tvg-name="唯心電視" tvg-country="CN" tvg-language="Chinese" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/weixin.png" group-title="",唯心電視
 http://mobile.ccdntech.com/transcoder/_definst_/vod164_Live/live/chunklist_w1177047531.m3u8
 #EXTINF:-1 tvg-id="WeiXingDianShi.tw" tvg-name="唯心電視" tvg-country="TW" tvg-language="Chinese" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/weixin.png" group-title="Religious",唯心電視
