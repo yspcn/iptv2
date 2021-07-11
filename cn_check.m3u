@@ -85,8 +85,6 @@ http://1111296894.rsc.cdn77.org/ls-54548-2/tracks-v1a1/mono.m3u8
 http://static.france24.com/live/F24_EN_LO_HLS/live_web.m3u8
 #EXTINF:-1,KBS World
 https://livecdn.fptplay.net/sdb/kbs_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1,NDTV 24X7
-https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678/ndtv24x7/ndtv24x7master.m3u8
 #EXTINF:-1,NHK华语世界
 https://nhkworld.webcdn.stream.ne.jp/www11/nhkworld-tv/zh/725580/livecom_zh.m3u8
 #EXTINF:-1,NewTV-云南
@@ -202,13 +200,15 @@ http://39.135.138.5:6610/PLTV/88888888/224/3221225765/2/index.m3u8
 #EXTINF:-1,NewTV超级综艺
 http://39.135.138.5:6610/PLTV/88888888/224/3221225768/2/index.m3u8
 #EXTINF:-1,NewTV超级综艺
-http://39.135.138.60:18890/PLTV/88888910/224/3221225768/index.m3u8
-#EXTINF:-1,NewTV超级综艺
 http://39.135.138.60:18890/PLTV/88888910/224/3221225620/index.m3u8
+#EXTINF:-1,NewTV超级综艺
+http://39.135.138.60:18890/PLTV/88888910/224/3221225768/index.m3u8
 #EXTINF:-1,NewTV金牌综艺
 http://39.135.138.5:6610/PLTV/88888888/224/3221225711/2/index.m3u8
 #EXTINF:-1,NewTV金牌综艺
 http://39.135.138.60:18890/PLTV/88888910/224/3221225711/index.m3u8
+#EXTINF:-1,Nippon TV News24 Japan
+https://n24-cdn-live.ntv.co.jp/ch01/index.m3u8
 #EXTINF:-1,RFI 法國國際廣播電臺
 https://rfienchinois64k.ice.infomaniak.ch/rfienchinois-64.mp3
 #EXTINF:-1,SBS International
@@ -352,9 +352,9 @@ http://223.110.245.138/PLTV/3/224/3221226922/index.m3u8
 #EXTINF:-1,凤凰中文台
 http://117.169.124.43:6610/ysten-businessmobile/live/fhchinese/index.m3u8
 #EXTINF:-1,凤凰资讯
-http://117.169.124.37:6610/ysten-businessmobile/live/fhzixun/1.m3u8
-#EXTINF:-1,凤凰资讯
 http://117.169.124.43:6610/ysten-businessmobile/live/fhzixun/index.m3u8
+#EXTINF:-1,凤凰资讯
+http://117.169.124.37:6610/ysten-businessmobile/live/fhzixun/1.m3u8
 #EXTINF:-1,凤凰资讯
 http://223.110.245.136/PLTV/3/224/3221226923/index.m3u8
 #EXTINF:-1,凤凰香港
@@ -657,8 +657,6 @@ http://140.207.241.2:8080/live/program/live/xsjhd/4000000/mnf.m3u8
 http://cgntv-glive.ofsdelivery.net/live/_definst_/cgntv_jp/playlist.m3u8
 #EXTINF:-1,日本-NTV NEWS24
 https://www.news24.jp/livestream/index.m3u8
-#EXTINF:-1,日本NHK华语
-https://nhkw-zh-hlscomp.akamaized.net/8thz5iufork8wjip/playlist.m3u8
 #EXTINF:-1,晋江公共HD
 http://live.china-latv.com/channel2/sd/live.m3u8
 #EXTINF:-1,晋江电视FHD
@@ -896,7 +894,11 @@ http://202.175.127.77/live/show/ch1/index.m3u8
 #EXTINF:-1,澳門有線 CH3
 http://202.175.127.77/live/show/ch3/index.m3u8
 #EXTINF:-1,澳门卫视
+http://61.244.22.5/ch3/ch3.live/chunklist_w1228316132.m3u8
+#EXTINF:-1,澳门卫视
 http://61.244.22.4/ch3/ch3.live/chunklist_w415594313.m3u8
+#EXTINF:-1,澳门奥视
+http://61.244.22.5/ch1/ch1.live/playelist.m3u8
 #EXTINF:-1,澳门葡语
 http://61.244.22.5/ch2/ch2.live/chunklist_w1632175875.m3u8
 #EXTINF:-1,点掌财经
@@ -957,8 +959,6 @@ http://stream2.xiancity.cn/xatv6/sd/live.m3u8
 http://39.135.138.5:6610/PLTV/88888888/224/3221225723/2/index.m3u8
 #EXTINF:-1,西藏卫视
 http://39.134.115.163:8080/PLTV/88888910/224/3221225723/index.m3u8
-#EXTINF:-1,西藏藏语
-http://media.vtibet.com/masvod/HLSLive/7/zangyuTV_q1.m3u8
 #EXTINF:-1,西青新闻综合
 http://221.238.209.44:81/hls/live1.m3u8
 #EXTINF:-1,贵州卫视 高清
