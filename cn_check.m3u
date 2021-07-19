@@ -85,8 +85,6 @@ http://1111296894.rsc.cdn77.org/ls-54548-2/tracks-v1a1/mono.m3u8
 http://static.france24.com/live/F24_EN_LO_HLS/live_web.m3u8
 #EXTINF:-1,KBS World
 https://livecdn.fptplay.net/sdb/kbs_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1,NDTV 24X7
-https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678/ndtv24x7/ndtv24x7master.m3u8
 #EXTINF:-1,NHK华语世界
 https://nhkworld.webcdn.stream.ne.jp/www11/nhkworld-tv/zh/725580/livecom_zh.m3u8
 #EXTINF:-1,NewTV-云南
@@ -243,8 +241,6 @@ http://140.207.241.2:8080/live/program/live/mlyyhd/4000000/mnf.m3u8
 http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=188&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1
 #EXTINF:-1,TVBS新聞台 HD
 http://seb.sason.top/sc/tvbsxw_fhd.m3u8
-#EXTINF:-1,Telesur
-https://d7g1ebft2592.cloudfront.net/mblivev3/hd/playlist.m3u8
 #EXTINF:-1,YTN
 http://slive.ytn.co.kr/ytn/_definst_/ytn_stream_20190306/playlist.m3u8
 #EXTINF:-1,Россия 24
@@ -358,9 +354,9 @@ http://117.169.124.43:6610/ysten-businessmobile/live/fhchinese/index.m3u8
 #EXTINF:-1,凤凰电影
 https://www.fanmingming.cn/hls/fhdy.m3u8
 #EXTINF:-1,凤凰资讯
-http://117.169.124.37:6610/ysten-businessmobile/live/fhzixun/1.m3u8
-#EXTINF:-1,凤凰资讯
 http://117.169.124.43:6610/ysten-businessmobile/live/fhzixun/index.m3u8
+#EXTINF:-1,凤凰资讯
+http://117.169.124.37:6610/ysten-businessmobile/live/fhzixun/1.m3u8
 #EXTINF:-1,凤凰资讯
 http://223.110.245.136/PLTV/3/224/3221226923/index.m3u8
 #EXTINF:-1,凤凰香港
@@ -490,11 +486,9 @@ http://39.135.138.8:6610/PLTV/88888888/224/3221225698/2/index.m3u8?fmt=ts2hls
 #EXTINF:-1,央视新闻·正直播
 https://newsalic.v.myalicdn.com:443/news/news10_1/index.m3u8
 #EXTINF:-1,好消息电视台
-http://live-350k.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch1-1.m3u8
-#EXTINF:-1,好消息电视台
 http://live-350k.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch2-1.m3u8
-#EXTINF:-1,孝义新闻综合
-http://app.xygdcm.com:2036/live/stream:xy1.stream/playlist.m3u8
+#EXTINF:-1,好消息电视台
+http://live-350k.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch1-1.m3u8
 #EXTINF:-1,宁夏卫视
 http://39.134.115.163:8080/PLTV/88888910/224/3221225726/index.m3u8
 #EXTINF:-1,宁夏卫视 高清
@@ -535,8 +529,6 @@ https://gcalic.v.myalicdn.com/gc/yxlcyt_1/index.m3u8?contentid=2820180516001
 http://223.247.33.124:1935/live/yingshi/playlist.m3u8
 #EXTINF:-1,安徽东至综合台
 http://223.247.33.124:1935/live/zonghe/playlist.m3u8
-#EXTINF:-1,安徽公共
-http://zbbf2.ahtv.cn/live/752.m3u8
 #EXTINF:-1,安徽六安综合台
 http://live.china-latv.com/channel1/sd/live.m3u8
 #EXTINF:-1,安徽卫视 高清
@@ -659,14 +651,14 @@ http://l.cztvcloud.com/channels/lantian/SXxinchang2/720p.m3u8
 http://l.cztvcloud.com/channels/lantian/SXxinchang1/720p.m3u8
 #EXTINF:-1,新疆卫视
 http://39.134.115.163:8080/PLTV/88888910/224/3221225725/index.m3u8
+#EXTINF:-1,新疆卫视 高清
+http://ott-iptv.top/gwzb/QQ:2301366939/xinjiang/xinjiang.php?id=1
 #EXTINF:-1,新视觉 HD
 http://140.207.241.2:8080/live/program/live/xsjhd/4000000/mnf.m3u8
 #EXTINF:-1,日本-CGNTV
 http://cgntv-glive.ofsdelivery.net/live/_definst_/cgntv_jp/playlist.m3u8
 #EXTINF:-1,日本-NTV NEWS24
 https://www.news24.jp/livestream/index.m3u8
-#EXTINF:-1,日本NHK华语
-https://nhkw-zh-hlscomp.akamaized.net/8thz5iufork8wjip/playlist.m3u8
 #EXTINF:-1,星空卫视
 http://116.199.5.51:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=234&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1
 #EXTINF:-1,星空衛視
@@ -761,10 +753,10 @@ https://gcalic.v.myalicdn.com/gc/zdxq01_1/index.m3u8?contentid=2820180516001
 http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=19&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1
 #EXTINF:-1,河南卫视 高清
 http://39.135.138.8:6610/PLTV/88888888/224/3221225611/2/index.m3u8?fmt=ts2hls
+#EXTINF:-1,法国-France24
+http://static.france24.com/live/F24_EN_LO_HLS/live_web.m3u8#http://f24hls-i.akamaihd.net/hls/live/221193-b/F24_EN_LO_HLS/master.m3u8http://f24hls-i.akamaihd.net/hls/live/221193/F24_EN_LO_HLS/master.m3u8#http://f24hls-i.akamaihd.net/hls/live/221192/F24_FR_LO_HLS/master.m3u8
 #EXTINF:-1,法语-TV5 Monde Info
 http://v3plusinfo247hls-i.akamaihd.net/hls/live/218877/v3plusinfo247hls/index.m3u8
-#EXTINF:-1,洛阳综合
-http://live1.lytv.com.cn:1935/live/LYTV1-1/playlist.m3u8
 #EXTINF:-1,浙江-丽水仙都风景区
 https://gcalic.v.myalicdn.com/gc/xdfjq01_1/index.m3u8?contentid=2820180516001
 #EXTINF:-1,浙江-乌镇全景
@@ -985,8 +977,6 @@ http://221.238.209.44:81/hls/live1.m3u8
 http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=41&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1
 #EXTINF:-1,贵州卫视 高清
 http://39.135.138.8:6610/PLTV/88888888/224/3221225483/2/index.m3u8?fmt=ts2hls
-#EXTINF:-1,赤峰综合频道
-http://vfile.cfrtv.cn/2017/1484/6248/0267/148462480267.ssm/148462480267.m3u8
 #EXTINF:-1,辽宁-沈阳金廊
 https://gcalic.v.myalicdn.com/gc/zsslsjjfsd_1/index.m3u8?contentid=2820180516001
 #EXTINF:-1,辽宁卫视 高清
@@ -1059,8 +1049,6 @@ http://58.222.151.43:1935/live/xwzhpc/playlist.m3u8
 http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
 #EXTINF:-1,风凰资讯
 https://liveprodeuwest.akamaized.net/eu1/Channel-EUTVqvs-AWS-ireland-1/Source-EUTVqvs-240-1_live.m3u8
-#EXTINF:-1,香港卫视
-http://zhibo.hkstv.tv/livestream/mutfysrq.flv
 #EXTINF:-1,高台电视台
 http://117.156.28.119/270000001111/1110000146/index.m3u8
 #EXTINF:-1,鳳凰資訊
@@ -1101,10 +1089,6 @@ http://117.169.120.138:8080/live/fhzixun/index.m3u8
 http://117.169.124.43:6610/ysten-businessmobile/live/fhzixun/index.m3u8
 #EXTINF:-1 ,凤凰香港
 http://223.110.236.2/ott.js.chinamobile.com/PLTV/3/224/3221228060/index.m3u8$JS1080P
-#EXTINF:-1 ,港台电视31
-https://www.rthk.hk/feeds/dtt/rthktv31_https.m3u8
-#EXTINF:-1 ,港台电视32
-https://www.rthk.hk/feeds/dtt/rthktv32_https.m3u8
 #EXTINF:-1 ,澳亚卫视
 http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=192&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1
 #EXTINF:-1 ,澳视澳门
@@ -1139,8 +1123,6 @@ https://rthkcnews-lh.akamaihd.net/i/rthknews_1@312607/index_190000011_av-b.m3u8
 https://www.livedoomovie.com/02_AnimalPlanet/chunklist.m3u8
 #EXTINF:-1 ,Asian Food Network
 https://livecdn.fptplay.net/world/afchd_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 ,BBC Earth
-https://livecdn.fptplay.net/qnetlive/bbcearth_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 ,DiscoveryHDWorld
 https://www.livedoomovie.com/02_DiscoveryHDWorld/chunklist.m3u8
 #EXTINF:-1 ,Fox Sport1
@@ -1149,8 +1131,6 @@ https://www.livedoomovie.com/02_foxsport_720p/chunklist.m3u8
 https://www.livedoomovie.com/02_FoxSport2_TH_720p/chunklist.m3u8
 #EXTINF:-1 ,Fox Sport3
 https://www.livedoomovie.com/02_FoxSport3_TH_720p/chunklist.m3u8
-#EXTINF:-1 ,Fox Sports 1 Asia
-https://livecdn.fptplay.net/qnetlive/foxsports_2000.stream/chunklist.m3u8
 #EXTINF:-1 ,Fox Sports 2 Asia
 https://livecdn.fptplay.net/qnetlive/foxsports2_2000.stream/chunklist.m3u8
 #EXTINF:-1 ,Fox Sports 3 Asia
@@ -1191,8 +1171,6 @@ http://seb.sason.top/sc/zsxw_fhd.m3u8
 http://hls.jingchangkan.tv/jingchangkan/156722438_0HaM/index.m3u8
 #EXTINF:-1 ,亚洲新闻
 http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
-#EXTINF:-1 ,亞美衛視
-http://dcunilive30-lh.akamaihd.net/i/dclive_1@535522/master.m3u8
 #EXTINF:-1 ,半岛新闻
 http://live-hls-web-aja.getaj.net/AJA/02.m3u8
 #EXTINF:-1 ,原住民電視
@@ -1205,8 +1183,6 @@ https://pulltv3.wanfudaluye.com/live/tv3.m3u8
 https://pulltv1.wanfudaluye.com/live/tv1.m3u8
 #EXTINF:-1 ,大爱二台
 https://pulltv2.wanfudaluye.com/live/tv2.m3u8
-#EXTINF:-1 ,天映经典
-http://50.7.161.82:8278/streams/d/Celestial2/playlist.m3u8
 #EXTINF:-1 ,寰宇新闻
 http://seb.sason.top/sc/hyxw.m3u8
 #EXTINF:-1 ,彭博财经台
