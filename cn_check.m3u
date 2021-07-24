@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1,Al-Jazeera English
+https://live-hls-web-aje.getaj.net/AJE/01.m3u8
 #EXTINF:-1,Arirang
 http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
 #EXTINF:-1,CBC News
@@ -57,8 +59,6 @@ http://39.135.138.8:6610/PLTV/88888888/224/3221225917/2/index.m3u8?fmt=ts2hls
 https://news.cgtn.com/resource/live/document/cgtn-doc.m3u8
 #EXTINF:-1,CGTN-国际
 http://live.cgtn.com/1000/prog_index.m3u8
-#EXTINF:-1,CHC动作电影
-http://125.210.152.18:9090/live/DZDYHD_H265.m3u8
 #EXTINF:-1,CHC电影
 http://ivi.bupt.edu.cn/hls/chchd.m3u8
 #EXTINF:-1,CRI Hit FM FM88.7
@@ -190,9 +190,9 @@ http://39.135.138.60:18890/PLTV/88888910/224/3221225648/index.m3u8
 #EXTINF:-1,NewTV超级电影
 http://39.135.138.5:6610/PLTV/88888888/224/3221225766/2/index.m3u8
 #EXTINF:-1,NewTV超级电影
-http://39.135.138.60:18890/PLTV/88888910/224/3221225623/index.m3u8
-#EXTINF:-1,NewTV超级电影
 http://39.135.138.60:18890/PLTV/88888910/224/3221225766/index.m3u8
+#EXTINF:-1,NewTV超级电影
+http://39.135.138.60:18890/PLTV/88888910/224/3221225623/index.m3u8
 #EXTINF:-1,NewTV超级电视
 http://39.135.138.60:18890/PLTV/88888910/224/3221225765/index.m3u8
 #EXTINF:-1,NewTV超级电视剧
@@ -200,9 +200,9 @@ http://39.135.138.5:6610/PLTV/88888888/224/3221225765/2/index.m3u8
 #EXTINF:-1,NewTV超级综艺
 http://39.135.138.5:6610/PLTV/88888888/224/3221225768/2/index.m3u8
 #EXTINF:-1,NewTV超级综艺
-http://39.135.138.60:18890/PLTV/88888910/224/3221225768/index.m3u8
-#EXTINF:-1,NewTV超级综艺
 http://39.135.138.60:18890/PLTV/88888910/224/3221225620/index.m3u8
+#EXTINF:-1,NewTV超级综艺
+http://39.135.138.60:18890/PLTV/88888910/224/3221225768/index.m3u8
 #EXTINF:-1,NewTV金牌综艺
 http://39.135.138.5:6610/PLTV/88888888/224/3221225711/2/index.m3u8
 #EXTINF:-1,NewTV金牌综艺
@@ -215,8 +215,6 @@ https://rfienchinois64k.ice.infomaniak.ch/rfienchinois-64.mp3
 https://streaming-a-802.cdn.nextologies.com/SBS_Live_HD/live/SBS_Live_HD_1500k/chunks.m3u8
 #EXTINF:-1,SBS Plus International
 https://streaming-a-802.cdn.nextologies.com/SBS_Plus/live/SBS_Plus_1500k/chunks.m3u8
-#EXTINF:-1,SiTV七彩戏剧 540
-http://140.207.241.2:8080/live/program/live/qcxj/1300000/mnf.m3u8
 #EXTINF:-1,SiTV东方财经 540
 http://140.207.241.2:8080/live/program/live/dfcj/1300000/mnf.m3u8
 #EXTINF:-1,SiTV全纪实 1080
@@ -350,9 +348,9 @@ http://117.169.124.43:6610/ysten-businessmobile/live/fhchinese/index.m3u8
 #EXTINF:-1,凤凰电影
 https://www.fanmingming.cn/hls/fhdy.m3u8
 #EXTINF:-1,凤凰资讯
-http://117.169.124.37:6610/ysten-businessmobile/live/fhzixun/1.m3u8
-#EXTINF:-1,凤凰资讯
 http://117.169.124.43:6610/ysten-businessmobile/live/fhzixun/index.m3u8
+#EXTINF:-1,凤凰资讯
+http://117.169.124.37:6610/ysten-businessmobile/live/fhzixun/1.m3u8
 #EXTINF:-1,凤凰资讯
 http://223.110.245.136/PLTV/3/224/3221226923/index.m3u8
 #EXTINF:-1,凤凰香港
@@ -465,14 +463,10 @@ https://gcalic.v.myalicdn.com/gc/tjhh02_1/index.m3u8?contentid=2820180516001
 http://183.207.248.71:80/cntv/live1/HD-2500k-1080P-tianjinstv/HD-2500k-1080P-tianjinstv
 #EXTINF:-1,天津卫视 高清
 http://39.135.138.8:6610/PLTV/88888888/224/3221225698/2/index.m3u8?fmt=ts2hls
-#EXTINF:-1,央视新闻·正直播
-https://newsalic.v.myalicdn.com:443/news/news10_1/index.m3u8
-#EXTINF:-1,央视新闻·正直播
-https://newsalic.v.myalicdn.com:443/news/news07_1/index.m3u8
-#EXTINF:-1,好消息电视台
-http://live-350k.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch2-1.m3u8
 #EXTINF:-1,好消息电视台
 http://live-350k.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch1-1.m3u8
+#EXTINF:-1,好消息电视台
+http://live-350k.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch2-1.m3u8
 #EXTINF:-1,孝义新闻综合
 http://app.xygdcm.com:2036/live/stream:xy1.stream/playlist.m3u8
 #EXTINF:-1,宁夏卫视
@@ -749,8 +743,6 @@ https://gcalic.v.myalicdn.com/gc/zjwzbblh_1/index.m3u8?contentid=2820180516001
 https://gcalic.v.myalicdn.com/gc/zjwzlxt_1/index.m3u8?contentid=2820180516001
 #EXTINF:-1,浙江-云栖小镇
 https://gcalic.v.myalicdn.com/gc/hnttpgsz_1/index.m3u8?contentid=2820180516001
-#EXTINF:-1,浙江-千岛湖
-https://gcalic.v.myalicdn.com/gc/caqdh_1/index.m3u8?contentid=2820180516001
 #EXTINF:-1,浙江-普陀山
 https://gcalic.v.myalicdn.com/gc/pts01_1/index.m3u8?contentid=2820180516001
 #EXTINF:-1,浙江-舟山东极岛
@@ -1052,21 +1044,21 @@ http://223.110.235.3/ott.js.chinamobile.com/PLTV/3/224/3221228057/index.m3u8$JS1
 #EXTINF:-1 ,凤凰电影
 https://www.fanmingming.cn/hls/fhdy.m3u8
 #EXTINF:-1 ,凤凰资讯
-http://223.110.245.167/ott.js.chinamobile.com/PLTV/3/224/3221226923/index.m3u8
-#EXTINF:-1 ,凤凰资讯
 http://223.110.245.167/ott.js.chinamobile.com/PLTV/3/224/3221226923/index.m3u8?epg=tvmao-600?回看=http://72ltw.xyz/zcjwx/PLTV/zjhk.php?id=6491.smil
 #EXTINF:-1 ,凤凰资讯
-http://117.169.120.138:8080/live/fhzixun/index.m3u8
+http://223.110.245.167/ott.js.chinamobile.com/PLTV/3/224/3221226923/index.m3u8
 #EXTINF:-1 ,凤凰资讯
 http://117.169.124.37:6610/ysten-businessmobile/live/fhzixun/1.m3u8
+#EXTINF:-1 ,凤凰资讯
+http://117.169.120.138:8080/live/fhzixun/index.m3u8
 #EXTINF:-1 ,凤凰资讯台
 http://117.169.124.43:6610/ysten-businessmobile/live/fhzixun/index.m3u8
 #EXTINF:-1 ,凤凰香港
 http://223.110.236.2/ott.js.chinamobile.com/PLTV/3/224/3221228060/index.m3u8$JS1080P
 #EXTINF:-1 ,澳视澳门
-http://61.244.22.4/ch1/ch1.live/playelist.m3u8
-#EXTINF:-1 ,澳视澳门
 http://61.244.22.5/ch1/_definst_/ch1.live/playlist.m3u8
+#EXTINF:-1 ,澳视澳门
+http://61.244.22.4/ch1/ch1.live/playelist.m3u8
 #EXTINF:-1 ,澳视葡文
 http://61.244.22.4/ch2/ch2.live/chunklist_w1632175875.m3u8
 #EXTINF:-1 ,澳视资讯
@@ -1084,9 +1076,9 @@ http://61.244.22.5/ch5/_definst_/info_ch5.live/playlist.m3u8
 #EXTINF:-1 ,耀才財經台1
 http://202.69.67.66:443/webcast/bshdlive-pc/playlist.m3u8?wowzasessionid=64000
 #EXTINF:-1 ,耀才财经
-http://202.69.67.66:443/webcast/bshdlive-pc/playlist.m3u8
-#EXTINF:-1 ,耀才财经
 http://202.69.67.66:443/webcast/bshdlive-mobile/playlist.m3u8
+#EXTINF:-1 ,耀才财经
+http://202.69.67.66:443/webcast/bshdlive-pc/playlist.m3u8
 #EXTINF:-1 ,风凰资讯
 https://liveprodeuwest.akamaized.net/eu1/Channel-EUTVqvs-AWS-ireland-1/Source-EUTVqvs-240-1_live.m3u8
 #EXTINF:-1 ,香港C+
