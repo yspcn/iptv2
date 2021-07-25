@@ -59,6 +59,8 @@ http://39.135.138.8:6610/PLTV/88888888/224/3221225917/2/index.m3u8?fmt=ts2hls
 https://news.cgtn.com/resource/live/document/cgtn-doc.m3u8
 #EXTINF:-1,CGTN-国际
 http://live.cgtn.com/1000/prog_index.m3u8
+#EXTINF:-1,CHC动作电影
+http://125.210.152.18:9090/live/DZDYHD_H265.m3u8
 #EXTINF:-1,CHC电影
 http://ivi.bupt.edu.cn/hls/chchd.m3u8
 #EXTINF:-1,CRI Hit FM FM88.7
@@ -229,8 +231,12 @@ http://140.207.241.2:8080/live/program/live/hxjchd/4000000/mnf.m3u8
 http://140.207.241.2:8080/live/program/live/fztd/1300000/mnf.m3u8
 #EXTINF:-1,SiTV游戏风云 1080
 http://140.207.241.2:8080/live/program/live/yxfyhd/4000000/mnf.m3u8
+#EXTINF:-1,SiTV生活时尚 1080
+http://140.207.241.2:8080/live/program/live/shsshd/4000000/mnf.m3u8
 #EXTINF:-1,SiTV都市剧场 1080
 http://140.207.241.2:8080/live/program/live/dsjchd/4000000/mnf.m3u8
+#EXTINF:-1,SiTV魅力足球 1080
+http://140.207.241.2:8080/live/program/live/mlyyhd/4000000/mnf.m3u8
 #EXTINF:-1,TVBS新聞台 HD
 http://seb.sason.top/sc/tvbsxw_fhd.m3u8
 #EXTINF:-1,Telesur
@@ -299,6 +305,8 @@ http://hls.weathertv.cn/tslslive/qCFIfHB/hls/live_sd.m3u8
 http://seb.sason.top/sc/ztxw_fhd.m3u8
 #EXTINF:-1,中央新影 中学生
 http://39.135.138.5:6610/PLTV/88888888/224/3221225515/2/index.m3u8
+#EXTINF:-1,中央新影 发现之旅
+http://125.210.152.18:9090/live/FXZL_750.m3u8
 #EXTINF:-1,中央新影 新科动漫
 http://cctvtxyh5ca.liveplay.myqcloud.com/live/xinkedongman_2/index.m3u8
 #EXTINF:-1,中央新影 老故事
@@ -344,9 +352,9 @@ http://117.169.124.43:6610/ysten-businessmobile/live/fhchinese/index.m3u8
 #EXTINF:-1,凤凰电影
 https://www.fanmingming.cn/hls/fhdy.m3u8
 #EXTINF:-1,凤凰资讯
-http://117.169.124.43:6610/ysten-businessmobile/live/fhzixun/index.m3u8
-#EXTINF:-1,凤凰资讯
 http://117.169.124.37:6610/ysten-businessmobile/live/fhzixun/1.m3u8
+#EXTINF:-1,凤凰资讯
+http://117.169.124.43:6610/ysten-businessmobile/live/fhzixun/index.m3u8
 #EXTINF:-1,凤凰资讯
 http://223.110.245.136/PLTV/3/224/3221226923/index.m3u8
 #EXTINF:-1,凤凰香港
@@ -387,6 +395,8 @@ http://117.156.28.119/270000001111/1110000028/index.m3u8
 http://30539.hlsplay.aodianyun.com/lms_30539/tv_channel_295.m3u8
 #EXTINF:-1,南阳科教
 http://30539.hlsplay.aodianyun.com/lms_30539/tv_channel_296.m3u8
+#EXTINF:-1,卧龙臭水
+http://gcalic.v.myalicdn.com/gc/xiongmao17_1/index.m3u8
 #EXTINF:-1,卫视卡式
 http://kuqq.gq/ub.php?id=1085
 #EXTINF:-1,台視新聞 HD
@@ -443,6 +453,8 @@ http://gcalic.v.myalicdn.com/gc/xiongmao02_1/index.m3u8
 http://gcalic.v.myalicdn.com/gc/xiongmao07_1/index.m3u8
 #EXTINF:-1,基地母子园②
 http://gcalic.v.myalicdn.com/gc/xiongmao08_1/index.m3u8
+#EXTINF:-1,大丰麋鹿
+http://gcalic.v.myalicdn.com/gc/xiongmao23_1/index.m3u8
 #EXTINF:-1,大愛1
 https://pulltv1.wanfudaluye.com/live/tv1.m3u8
 #EXTINF:-1,大愛2
@@ -607,6 +619,8 @@ http://kaixianlive.cbg.cn:10345/1.m3u8
 http://stream.zjjrtv.com/zjjtv1/hd/live.m3u8
 #EXTINF:-1,德州都市
 http://video.dztv.tv:1935/live/dspd_gq/playlist.m3u8
+#EXTINF:-1,怡然②
+http://gcalic.v.myalicdn.com/gc/xiongmao18_1/index.m3u8
 #EXTINF:-1,成都高清
 http://gcalic.v.myalicdn.com/gc/ipanda_1td/index.m3u8
 #EXTINF:-1,数码时代【公众号:手机软件资源局】
@@ -639,6 +653,8 @@ http://seb.sason.top/sc/dsxw_fhd.m3u8
 http://seb.sason.top/sc/dsmz_fhd.m3u8
 #EXTINF:-1,東森財經新聞 HD
 http://seb.sason.top/sc/dscjxw_fhd.m3u8
+#EXTINF:-1,核桃坪
+http://gcalic.v.myalicdn.com/gc/xiongmao19_1/index.m3u8
 #EXTINF:-1,榆树综合
 http://stream.zhystv.com/yset/sd/live.m3u8
 #EXTINF:-1,榆树综艺
@@ -883,6 +899,8 @@ http://111.20.105.60:6060/yinhe/2/ch00000090990000001709/index.m3u8?virtualDomai
 http://hbxx.chinashadt.com:3299/live/stream%3Adi7.stream_360p/chunklist.m3u8
 #EXTINF:-1,献县2台
 http://hbxx.chinashadt.com:3299/live/stream%3Adi8.stream_360p/chunklist.m3u8
+#EXTINF:-1,白马雪山
+http://gcalic.v.myalicdn.com/gc/xiongmao24_1/index.m3u8
 #EXTINF:-1,直播中国
 http://gcalic.v.myalicdn.com/gc/wgw05_1/index.m3u8
 #EXTINF:-1,福建-厦门鼓浪屿
@@ -945,12 +963,28 @@ https://gcalic.v.myalicdn.com/gc/zsslsjjfsd_1/index.m3u8?contentid=2820180516001
 http://39.135.138.8:6610/PLTV/88888888/224/3221225696/2/index.m3u8?fmt=ts2hls
 #EXTINF:-1,迭部电视台
 http://117.156.28.119/270000001111/1110000154/index.m3u8
+#EXTINF:-1,都江堰壹壹玖玖
+http://gcalic.v.myalicdn.com/gc/xiongmao14_1/index.m3u8
+#EXTINF:-1,都江堰妃妃
+http://gcalic.v.myalicdn.com/gc/xiongmao13_1/index.m3u8
+#EXTINF:-1,都江堰娅祥
+http://gcalic.v.myalicdn.com/gc/xiongmao15_1/index.m3u8
+#EXTINF:-1,都江堰水秀
+http://gcalic.v.myalicdn.com/gc/xiongmao12_1/index.m3u8
+#EXTINF:-1,都江堰瑞瑞
+http://gcalic.v.myalicdn.com/gc/xiongmao11_1/index.m3u8
 #EXTINF:-1,都江堰神树坪②
 http://gcalic.v.myalicdn.com/gc/xiongmao26_1/index.m3u8
 #EXTINF:-1,都江堰神树坪③
 http://gcalic.v.myalicdn.com/gc/xiongmao22_1/index.m3u8
 #EXTINF:-1,都江堰神树萍①
 http://gcalic.v.myalicdn.com/gc/xiongmao25_1/index.m3u8
+#EXTINF:-1,都江堰英英
+http://gcalic.v.myalicdn.com/gc/xiongmao16_1/index.m3u8
+#EXTINF:-1,都江堰青青
+http://gcalic.v.myalicdn.com/gc/xiongmao20_1/index.m3u8
+#EXTINF:-1,都江堰高清
+http://gcalic.v.myalicdn.com/gc/ipanda1000_1td/index.m3u8
 #EXTINF:-1,酒泉新闻综合
 http://117.156.28.119/270000001111/1110000001/index.m3u8
 #EXTINF:-1,重庆万州影视台
@@ -987,8 +1021,6 @@ http://58.222.151.43:1935/live/xwzhpc/playlist.m3u8
 http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
 #EXTINF:-1,风凰资讯
 https://liveprodeuwest.akamaized.net/eu1/Channel-EUTVqvs-AWS-ireland-1/Source-EUTVqvs-240-1_live.m3u8
-#EXTINF:-1,香港卫视
-http://zhibo.hkstv.tv/livestream/mutfysrq.flv
 #EXTINF:-1,高台电视台
 http://117.156.28.119/270000001111/1110000146/index.m3u8
 #EXTINF:-1,鳳凰資訊
@@ -1018,9 +1050,9 @@ http://223.110.235.3/ott.js.chinamobile.com/PLTV/3/224/3221228057/index.m3u8$JS1
 #EXTINF:-1 ,凤凰电影
 https://www.fanmingming.cn/hls/fhdy.m3u8
 #EXTINF:-1 ,凤凰资讯
-http://223.110.245.167/ott.js.chinamobile.com/PLTV/3/224/3221226923/index.m3u8
-#EXTINF:-1 ,凤凰资讯
 http://223.110.245.167/ott.js.chinamobile.com/PLTV/3/224/3221226923/index.m3u8?epg=tvmao-600?回看=http://72ltw.xyz/zcjwx/PLTV/zjhk.php?id=6491.smil
+#EXTINF:-1 ,凤凰资讯
+http://223.110.245.167/ott.js.chinamobile.com/PLTV/3/224/3221226923/index.m3u8
 #EXTINF:-1 ,凤凰资讯
 http://117.169.124.37:6610/ysten-businessmobile/live/fhzixun/1.m3u8
 #EXTINF:-1 ,凤凰资讯
@@ -1030,9 +1062,9 @@ http://117.169.124.43:6610/ysten-businessmobile/live/fhzixun/index.m3u8
 #EXTINF:-1 ,凤凰香港
 http://223.110.236.2/ott.js.chinamobile.com/PLTV/3/224/3221228060/index.m3u8$JS1080P
 #EXTINF:-1 ,澳视澳门
-http://61.244.22.5/ch1/_definst_/ch1.live/playlist.m3u8
-#EXTINF:-1 ,澳视澳门
 http://61.244.22.4/ch1/ch1.live/playelist.m3u8
+#EXTINF:-1 ,澳视澳门
+http://61.244.22.5/ch1/_definst_/ch1.live/playlist.m3u8
 #EXTINF:-1 ,澳视葡文
 http://61.244.22.4/ch2/ch2.live/chunklist_w1632175875.m3u8
 #EXTINF:-1 ,澳视资讯
