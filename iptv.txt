@@ -64,13 +64,10 @@ NewTV健康有约,http://183.207.248.71:80/cntv/live1/n-ljiankangyouyue/n-ljiank
 NewTV军事评论,http://183.207.248.71:80/cntv/live1/n-junshipl/n-junshipl
 NewTV古装剧场,http://183.207.248.71:80/cntv/live1/n-guzhuangjc/n-guzhuangjc
 NewTV军旅剧场,http://183.207.248.71:80/cntv/live1/n-junlvjc/n-junlvjc
-NewTV农业致富,http://183.207.248.71:80/cntv/live1/n-nongyezf/n-nongyezf
-NewTV动作电影,http://183.207.248.71:80/cntv/live1/n-dongzuody/n-dongzuody
 NewTV家庭剧场,http://183.207.248.71:80/cntv/live1/n-jiatingjc/n-jiatingjc
 NewTV惊悚电影,http://183.207.248.71:80/cntv/live1/n-jingsongxy/n-jingsongxy
-NewTV潮妈辣婆,http://183.207.248.71:80/cntv/live1/n-cmlapo/n-cmlapo
-NewTV炫舞未来,http://183.207.248.71:80/cntv/live1/HD-4000k-1080P-xwwl/HD-4000k-1080P-xwwl
 NewTV爱情喜剧,http://183.207.248.71:80/cntv/live1/n-aiqingxj/n-aiqingxj
+NewTV精品体育,http://183.207.248.71:80/cntv/live1/n-jtiyu/n-jtiyu
 NewTV精品大剧,http://183.207.248.71:80/cntv/live1/n-jdaju/n-jdaju
 NewTV精品纪录,http://183.207.248.71:80/cntv/live1/n-jingpinjl/n-jingpinjl
 NewTV金牌综艺,http://183.207.248.71:80/cntv/live1/n-saishijx/n-saishijx
@@ -98,6 +95,7 @@ CCTV6 8M1080,http://39.134.24.24/PLTV/88888888/224/3221226027/index.m3u8
 CCTV7 8M1080,http://39.134.24.24/PLTV/88888888/224/3221225855/index.m3u8
 CCTV8 8M1080,http://39.134.24.24/PLTV/88888888/224/3221226029/index.m3u8
 CCTV10 8M1080,http://39.134.24.24/PLTV/88888888/224/3221225823/index.m3u8
+CCTV13 4M1080,http://39.134.24.24/PLTV/88888888/224/3221225827/index.m3u8
 CCTV14 8M1080,http://39.134.24.24/PLTV/88888888/224/3221225857/index.m3u8
 CCTV17 8M1080,http://39.134.24.24/PLTV/88888888/224/3221225859/index.m3u8
 东方卫视 3M1080,http://39.134.24.24/PLTV/88888888/224/3221225676/index.m3u8
@@ -105,19 +103,30 @@ CCTV17 8M1080,http://39.134.24.24/PLTV/88888888/224/3221225859/index.m3u8
 北京卫视 12M1080,http://39.134.24.24/PLTV/88888888/224/3221225833/index.m3u8
 北京卫视 3M1080,http://39.134.24.24/PLTV/88888888/224/3221225724/index.m3u8
 安徽卫视 12M1080,http://39.134.24.24/PLTV/88888888/224/3221225847/index.m3u8
+山东卫视 12M1080,http://39.134.24.24/PLTV/88888888/224/3221225841/index.m3u8
 广东卫视 3M1080,http://39.134.24.24/PLTV/88888888/224/3221225680/index.m3u8
 江苏卫视 3M1080,http://39.134.24.24/PLTV/88888888/224/3221225602/index.m3u8
 浙江卫视 3M1080,http://39.134.24.24/PLTV/88888888/224/3221225664/index.m3u8
 浙江卫视 16M1080,http://39.134.24.24/PLTV/88888888/224/3221225845/index.m3u8
 深圳卫视 12M1080,http://39.134.24.24/PLTV/88888888/224/3221225843/index.m3u8
+深圳卫视 3M1080,http://39.134.24.24/PLTV/88888888/224/3221225764/index.m3u8
+湖北卫视 3M1080,http://39.134.24.24/PLTV/88888888/224/3221225863/index.m3u8
 湖南卫视 3M1080,http://39.134.24.24/PLTV/88888888/224/3221225694/index.m3u8
 湖南卫视 16M1080,http://39.134.24.24/PLTV/88888888/224/3221225837/index.m3u8
 辽宁卫视 3M1080,http://39.134.24.24/PLTV/88888888/224/3221225861/index.m3u8
+黑龙江卫视 3M1080,http://39.134.24.24/PLTV/88888888/224/3221225690/index.m3u8
+精彩体育 4M1080,http://39.134.24.24/PLTV/88888888/224/3221225809/index.m3u8
+精彩电影 4M1080,http://39.134.24.24/PLTV/88888888/224/3221225811/index.m3u8
 精彩电视剧 4M1080,http://39.134.24.24/PLTV/88888888/224/3221225813/index.m3u8
+精彩综艺 4M1080,http://39.134.24.24/PLTV/88888888/224/3221225807/index.m3u8
 宁强2 2M1080,http://39.134.24.24/PLTV/88888888/224/3221226031/index.m3u8
+宝鸡2 8M1080,http://39.134.24.24/PLTV/88888888/224/3221225973/index.m3u8
 延安1 2M1080,http://39.134.24.24/PLTV/88888888/224/3221225969/index.m3u8
+延安1 2M1080,http://39.134.24.24/PLTV/88888888/224/3221225983/index.m3u8
 延安2 2M1080,http://39.134.24.24/PLTV/88888888/224/3221225971/index.m3u8
+咪咕直播 1080,http://39.134.24.24/PLTV/88888888/224/3221225773/index.m3u8
 咪咕直播 1080,http://39.134.24.24/PLTV/88888888/224/3221225775/index.m3u8
+咪咕直播 1080,http://39.134.24.24/PLTV/88888888/224/3221225777/index.m3u8
 咪咕直播 1080,http://39.134.24.24/PLTV/88888888/224/3221225779/index.m3u8
 咪咕直播 1080,http://39.134.24.24/PLTV/88888888/224/3221225785/index.m3u8
 咪咕直播 1080,http://39.134.24.24/PLTV/88888888/224/3221225787/index.m3u8
@@ -173,7 +182,6 @@ IPTV相声小品 576,http://39.134.24.24/PLTV/88888888/224/3221226011/index.m3u8
 广东卫视 576,http://39.134.24.24/PLTV/88888888/224/3221225692/index.m3u8
 广西卫视 576,http://39.134.24.24/PLTV/88888888/224/3221225594/index.m3u8
 新疆卫视 576,http://39.134.24.24/PLTV/88888888/224/3221225790/index.m3u8
-江苏卫视 576,http://39.134.24.24/PLTV/88888888/224/3221225734/index.m3u8
 江西卫视 576,http://39.134.24.24/PLTV/88888888/224/3221225682/index.m3u8
 河北卫视 576,http://39.134.24.24/PLTV/88888888/224/3221225744/index.m3u8
 河南卫视 576,http://39.134.24.24/PLTV/88888888/224/3221225716/index.m3u8
@@ -221,9 +229,6 @@ IPTV相声小品 576,http://39.134.24.24/PLTV/88888888/224/3221226011/index.m3u8
 江苏好享购物 720,http://39.134.24.24/PLTV/88888888/224/3221225815/index.m3u8
 聚鲨环球精选 576,http://39.134.24.24/PLTV/88888888/224/3221225865/index.m3u8
 百视通体育 720,http://39.134.24.24/PLTV/88888888/224/3221228847/index.m3u8
-百视通体育 720,http://39.134.24.24/PLTV/88888888/224/3221228849/index.m3u8
-百视通体育 720,http://39.134.24.24/PLTV/88888888/224/3221228851/index.m3u8
-百视通体育 720,http://39.134.24.24/PLTV/88888888/224/3221228853/index.m3u8
 百视通体育 720,http://39.134.24.24/PLTV/88888888/224/3221228855/index.m3u8
 百视通体育 720,http://39.134.24.24/PLTV/88888888/224/3221228857/index.m3u8
 百视通体育 720,http://39.134.24.24/PLTV/88888888/224/3221228859/index.m3u8
@@ -231,13 +236,11 @@ IPTV相声小品 576,http://39.134.24.24/PLTV/88888888/224/3221226011/index.m3u8
 百视通体育 720,http://39.134.24.24/PLTV/88888888/224/3221228863/index.m3u8
 百视通体育720,http://39.134.24.24/PLTV/88888888/224/3221228865/index.m3u8
 百视通体育720,http://39.134.24.24/PLTV/88888888/224/3221228867/index.m3u8
-香港卫视 HKS,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8#http://zhibo.hkstv.tv/livestream/mutfysrq.flv
 凤凰中文,http://223.110.245.138/PLTV/3/224/3221226922/index.m3u8
 凤凰资讯,http://223.110.245.136/PLTV/3/224/3221226923/index.m3u8
 凤凰香港,http://223.110.245.136/PLTV/3/224/3221226975/index.m3u8
 CGTN-国际,http://live.cgtn.com/1000/prog_index.m3u8
 CGTN-Doc,https://news.cgtn.com/resource/live/document/cgtn-doc.m3u8
-中國國際教育,http://play.cec-tv.com.cn/channel/cec-tv1.m3u8
 求索记录 高清,http://39.134.65.162/PLTV/88888888/224/3221225713/index.m3u8
 求索生活 高清,http://39.134.65.162/PLTV/88888888/224/3221225715/index.m3u8
 求索科学 高清,http://39.134.65.162/PLTV/88888888/224/3221225728/index.m3u8
@@ -245,8 +248,6 @@ CGTN-Doc,https://news.cgtn.com/resource/live/document/cgtn-doc.m3u8
 CHC家庭影院 高清,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226462/index.m3u8
 CHC高清电影 高清,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226463/index.m3u8
 CHC动作电影 高清,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226465/index.m3u8
-爱上4K 4K超高清,http://39.134.24.220/PLTV/88888888/224/3221226005/index.m3u8
-4K花园 4K超高清,http://223.110.243.163/ott.js.chinamobile.com/PLTV/3/224/3221227749/index.m3u8
 法国-France24,http://static.france24.com/live/F24_EN_LO_HLS/live_web.m3u8
 韩国-Arirang,http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
 美国-CSBN,http://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/master.m3u8
@@ -310,6 +311,7 @@ SiTV动漫秀场 1080,http://140.207.241.2:8080/live/program/live/dmxchd/4000000
 SiTV游戏风云 1080,http://140.207.241.2:8080/live/program/live/yxfyhd/4000000/mnf.m3u8
 SiTV魅力足球 1080,http://140.207.241.2:8080/live/program/live/mlyyhd/4000000/mnf.m3u8
 SiTV欢笑剧场 1080,http://140.207.241.2:8080/live/program/live/hxjchd/4000000/mnf.m3u8
+SiTV生活时尚 1080,http://140.207.241.2:8080/live/program/live/shsshd/4000000/mnf.m3u8
 SiTV全纪实 1080,http://140.207.241.2:8080/live/program/live/qjshd/4000000/mnf.m3u8
 SiTV都市剧场 1080,http://140.207.241.2:8080/live/program/live/dsjchd/4000000/mnf.m3u8
 SiTV法治天地 540,http://140.207.241.2:8080/live/program/live/fztd/1300000/mnf.m3u8
