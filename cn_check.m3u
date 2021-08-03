@@ -87,12 +87,12 @@ https://pulltv2.wanfudaluye.com/live/tv2.m3u8
 https://pulltv3.wanfudaluye.com/live/tv3.m3u8
 #EXTINF:-1,NHK华语世界
 https://nhkworld.webcdn.stream.ne.jp/www11/nhkworld-tv/zh/725580/livecom_zh.m3u8
+#EXTINF:-1,RFI 法國國際廣播電臺
+https://rfienchinois64k.ice.infomaniak.ch/rfienchinois-64.mp3
 #EXTINF:-1,Al-Jazeera English
 https://live-hls-web-aje.getaj.net/AJE/01.m3u8
 #EXTINF:-1,Arirang
 http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
-#EXTINF:-1,CBC News
-https://1111296894.rsc.cdn77.org/LS-ATL-54548-8/index.m3u8
 #EXTINF:-1,Channel News Asia
 http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
 #EXTINF:-1,Fox News
@@ -567,6 +567,8 @@ http://live3.sxrtv.com/flvss?bitrate=800000&channel=Shan1XiFinance&start=0&provi
 http://live2.sxrtv.com/flvss?bitrate=800000&channel=Shan1XiFilm&start=0&provider=www.tvmining.com
 #EXTINF:-1,山西科教
 http://live3.sxrtv.com/flvss?bitrate=800000&channel=Shan1XiEdu&start=0&provider=www.tvmining.com
+#EXTINF:-1,山西少儿
+http://live2.sxrtv.com/flvss?bitrate=800000&channel=Shan1XiChild&start=0&provider=www.tvmining.com
 #EXTINF:-1,山东德州综合台
 http://video.dztv.tv:1935/live/xwzh_gq/playlist.m3u8
 #EXTINF:-1,山东德州公共台
@@ -707,6 +709,8 @@ http://zbbf2.ahtv.cn/live/752.m3u8
 http://live.pybtv.cn/channel1/sd/live.m3u8
 #EXTINF:-1,江苏综艺
 http://183.207.248.71/gitv/live1/G_JSZY/G_JSZY
+#EXTINF:-1,深圳东部HD
+http://liveplay.sznews.com/66_norecord_live/343.m3u8
 #EXTINF:-1,深圳蛇口FHD
 http://218.17.99.211:82/hls/d4encs75.m3u8
 #EXTINF:-1,徐州4FHD
@@ -905,8 +909,6 @@ https://myun-hw-s3.myun.tv/melj80jz/lxx27bol/1551285536499984128.m3u8
 https://liveprodeuwest.akamaized.net/eu1/Channel-EUTVqvs-AWS-ireland-1/Source-EUTVqvs-240-1_live.m3u8
 #EXTINF:-1 ,凤凰中文
 http://223.110.235.3/ott.js.chinamobile.com/PLTV/3/224/3221228057/index.m3u8$JS1080P
-#EXTINF:-1 ,凤凰资讯
-http://117.169.120.138:8080/live/fhzixun/index.m3u8
 #EXTINF:-1 ,凤凰资讯
 http://223.110.245.167/ott.js.chinamobile.com/PLTV/3/224/3221226923/index.m3u8?epg=tvmao-600?回看=http://72ltw.xyz/zcjwx/PLTV/zjhk.php?id=6491.smil
 #EXTINF:-1 ,凤凰资讯

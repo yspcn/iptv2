@@ -102,6 +102,7 @@ CCTV10 8M1080,http://39.134.24.24/PLTV/88888888/224/3221225823/index.m3u8
 CCTV13 4M1080,http://39.134.24.24/PLTV/88888888/224/3221225827/index.m3u8
 CCTV14 8M1080,http://39.134.24.24/PLTV/88888888/224/3221225857/index.m3u8
 CCTV17 8M1080,http://39.134.24.24/PLTV/88888888/224/3221225859/index.m3u8
+东方卫视 3M1080,http://39.134.24.24/PLTV/88888888/224/3221225676/index.m3u8
 东方卫视 16M1080,http://39.134.24.24/PLTV/88888888/224/3221225835/index.m3u8
 北京卫视 12M1080,http://39.134.24.24/PLTV/88888888/224/3221225833/index.m3u8
 北京卫视 3M1080,http://39.134.24.24/PLTV/88888888/224/3221225724/index.m3u8
@@ -137,7 +138,9 @@ CCTV17 8M1080,http://39.134.24.24/PLTV/88888888/224/3221225859/index.m3u8
 咪咕视频 1080,http://39.134.24.24/PLTV/88888888/224/3221225589/index.m3u8
 咪咕视频 1080,http://39.134.24.24/PLTV/88888888/224/3221225593/index.m3u8
 咪咕视频 1080,http://39.134.24.24/PLTV/88888888/224/3221225595/index.m3u8
+咪咕视频 1080,http://39.134.24.24/PLTV/88888888/224/3221225599/index.m3u8
 咪咕视频 1080,http://39.134.24.24/PLTV/88888888/224/3221225601/index.m3u8
+足协乙级联赛 1080,http://39.134.24.24/PLTV/88888888/224/3221225537/index.m3u8
 足协乙级联赛 1080,http://39.134.24.24/PLTV/88888888/224/3221225541/index.m3u8
 CCTV1 576,http://39.134.24.24/PLTV/88888888/224/3221225652/index.m3u8
 CCTV1 720+576,http://39.134.24.24/PLTV/88888888/224/3221226024/index.m3u8
@@ -169,6 +172,7 @@ IPTV相声小品 576,http://39.134.24.24/PLTV/88888888/224/3221226011/index.m3u8
 东南卫视 576,http://39.134.24.24/PLTV/88888888/224/3221225722/index.m3u8
 东方卫视 576,http://39.134.24.24/PLTV/88888888/224/3221225622/index.m3u8
 东方卫视 720+576,http://39.134.24.24/PLTV/88888888/224/3221225976/index.m3u8
+云南卫视 576,http://39.134.24.24/PLTV/88888888/224/3221225696/index.m3u8
 内蒙古卫视 576,http://39.134.24.24/PLTV/88888888/224/3221225626/index.m3u8
 北京卫视 576,http://39.134.24.24/PLTV/88888888/224/3221225646/index.m3u8
 北京卫视 576,http://39.134.24.24/PLTV/88888888/224/3221225735/index.m3u8
@@ -209,8 +213,10 @@ IPTV相声小品 576,http://39.134.24.24/PLTV/88888888/224/3221226011/index.m3u8
 湖南金鹰卡通 576,http://39.134.24.24/PLTV/88888888/224/3221225750/index.m3u8
 京视剧场 576,http://39.134.24.24/PLTV/88888888/224/3221225885/index.m3u8
 台球 576,http://39.134.24.24/PLTV/88888888/224/3221226009/index.m3u8
+生态环境 576,http://39.134.24.24/PLTV/88888888/224/3221225887/index.m3u8
 置业频道 576,http://39.134.24.24/PLTV/88888888/224/3221225883/index.m3u8
 陕西影视 576,http://39.134.24.24/PLTV/88888888/224/3221225997/index.m3u8
+陕西西部电影 576,http://39.134.24.24/PLTV/88888888/224/3221225993/index.m3u8
 陕西都市青春 576,http://39.134.24.24/PLTV/88888888/224/3221225999/index.m3u8
 西安1 576,http://39.134.24.24/PLTV/88888888/224/3221225991/index.m3u8
 西安3 576,http://39.134.24.24/PLTV/88888888/224/3221225989/index.m3u8
@@ -254,25 +260,19 @@ CHC高清电影 高清,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/322122
 CHC动作电影 高清,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226465/index.m3u8
 爱上4K 4K超高清,http://39.134.24.220/PLTV/88888888/224/3221226005/index.m3u8
 4K花园 4K超高清,http://223.110.243.163/ott.js.chinamobile.com/PLTV/3/224/3221227749/index.m3u8
-=== 英语 ===,http://127.0.0.1
 法国-France24,http://static.france24.com/live/F24_EN_LO_HLS/live_web.m3u8
 韩国-Arirang,http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
 美国-CSBN,http://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/master.m3u8
 美国-Newsmax TV,https://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
-=== 其他 ===,http://127.0.0.1
 日本-NTV NEWS24,https://www.news24.jp/livestream/index.m3u8
 日本-CGNTV,http://cgntv-glive.ofsdelivery.net/live/_definst_/cgntv_jp/playlist.m3u8
 法语-TV5 Monde Info,http://v3plusinfo247hls-i.akamaihd.net/hls/live/218877/v3plusinfo247hls/index.m3u8
-=== 广东 ===,http://127.0.0.1
 汕头综合,http://dslive.grtn.cn/stzh/playlist.m3u8
-湛江综合,http://dslive.grtn.cn/zjzh/sd/live.m3u8
 茂名综合,http://dslive.grtn.cn/mmzh/sd/live.m3u8
 江门综合,http://dslive.grtn.cn/jmzh/sd/live.m3u8
 珠海生活,http://dslive.grtn.cn/zhzh/sd/live.m3u8
 揭阳综合,http://dslive.grtn.cn/jyzh/sd/live.m3u8
-阳江综合,http://dslive.grtn.cn/yjzh/sd/live.m3u8
 韶关公共,http://dslive.grtn.cn/sgxwzhHD/sd/live.m3u8
-梅州综合,http://dslive.grtn.cn/mzzh/sd/live.m3u8
 河源综合,http://dslive.grtn.cn/hyzh/sd/live.m3u8
 汕尾综合,http://dslive.grtn.cn/swzh/sd/live.m3u8
 云浮综合,http://dslive.grtn.cn/yfzh/sd/live.m3u8
@@ -283,7 +283,6 @@ CHC动作电影 高清,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/322122
 佛山公共,http://pili-live-rtmp.wdit.com.cn/wditlive/fs_ggpd.flv
 佛山高明,http://pili-live-rtmp.wdit.com.cn/wditlive/fs_gmpd.flv
 佛山三水,http://pili-live-rtmp.wdit.com.cn/wditlive/fs_sspd.flv
-=== 福建 ===,http://127.0.0.1
 福州综合,http://live.zohi.tv/video/s10001-FZTV-1/index.m3u8
 福州影视,http://live.zohi.tv/video/s10001-yspd-2/index.m3u8
 福州生活,http://live.zohi.tv/video/s10001-shpd-3/index.m3u8
@@ -295,7 +294,6 @@ CHC动作电影 高清,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/322122
 漳州新闻综合,http://31182.hlsplay.aodianyun.com/lms_31182/tv_channel_175.m3u8
 龙岩新闻综合,http://stream.lytv.net.cn/2/sd/live.m3u8
 龙岩公共频道,http://stream.lytv.net.cn/1/sd/live.m3u8
-=== 浙江 ===,http://127.0.0.1
 浙江影视台,http://hw-m-l.cztv.com/channels/lantian/channel05/1080p.m3u8
 浙江少儿台,http://hw-m-l.cztv.com/channels/lantian/channel08/1080p.m3u8
 浙江教育台,http://hw-m-l.cztv.com/channels/lantian/channel04/1080p.m3u8
@@ -307,7 +305,6 @@ CHC动作电影 高清,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/322122
 浙江舟山公共生活,http://live.wifizs.cn/ggsh/sd/live.m3u8
 浙江舟山群岛旅游,http://live.wifizs.cn/qdly/sd/live.m3u8
 浙江海盐新闻频道,http://haiyan.liveyun.hoge.cn/xwpd/sd/live.m3u8
-=== 其他 ===,http://127.0.0.1
 上海教育,http://live.setv.sh.cn/slive/shedu02_1200k.m3u8
 上海新闻,http://183.207.255.188/live/program/live/xwzhhd/4000000/mnf.m3u8
 上海影视,http://183.207.255.188/live/program/live/dsjpdhd/4000000/mnf.m3u8
