@@ -527,6 +527,8 @@ http://qxlmlive.cbg.cn:1935/app_2/ls_40.stream/playlist.m3u8
 http://hwzbout.yunshicloud.com/gbqei5/12661u.m3u8
 #EXTINF:-1,云南丽江公共台
 http://hwzbout.yunshicloud.com/mj1170/06qk26.m3u8
+#EXTINF:-1,云南普洱综合台
+http://hwzbout.yunshicloud.com/701aec/orx377.m3u8
 #EXTINF:-1,云南马关电视台
 http://m3u8.channel.wsrtv.com.cn/cms/videos/nmip-media/channellive/channel12/playlist.m3u8
 #EXTINF:-1,云南麻栗坡电视
@@ -565,8 +567,6 @@ http://live3.sxrtv.com/flvss?bitrate=800000&channel=Shan1XiFinance&start=0&provi
 http://live2.sxrtv.com/flvss?bitrate=800000&channel=Shan1XiFilm&start=0&provider=www.tvmining.com
 #EXTINF:-1,山西科教
 http://live3.sxrtv.com/flvss?bitrate=800000&channel=Shan1XiEdu&start=0&provider=www.tvmining.com
-#EXTINF:-1,山西少儿
-http://live2.sxrtv.com/flvss?bitrate=800000&channel=Shan1XiChild&start=0&provider=www.tvmining.com
 #EXTINF:-1,山东德州综合台
 http://video.dztv.tv:1935/live/xwzh_gq/playlist.m3u8
 #EXTINF:-1,山东德州公共台
@@ -653,6 +653,10 @@ http://218.206.193.210:9850/playServer/acquirePlayService?type=live&resourceId=1
 http://stream.zhystv.com/yset/sd/live.m3u8
 #EXTINF:-1,榆树综艺
 http://stream.zhystv.com/ysyt/sd/live.m3u8
+#EXTINF:-1,长治公共
+http://streaming.czgd.cn:8084/7223161a96984d81b711d762d7e7fdd1/h264_300k_ts/index.m3u8?type=hls_live_redirect
+#EXTINF:-1,长治教育
+http://streaming.czgd.cn:8084/2b7f0174d0f44c34bf466fc0ab801a3a/h264_300k_ts/index.m3u8?type=hls_live_redirect
 #EXTINF:-1,孝义新闻综合
 http://app.xygdcm.com:2036/live/stream:xy1.stream/playlist.m3u8
 #EXTINF:-1,文水时尚秀
@@ -703,8 +707,6 @@ http://zbbf2.ahtv.cn/live/752.m3u8
 http://live.pybtv.cn/channel1/sd/live.m3u8
 #EXTINF:-1,江苏综艺
 http://183.207.248.71/gitv/live1/G_JSZY/G_JSZY
-#EXTINF:-1,深圳东部HD
-http://liveplay.sznews.com/66_norecord_live/343.m3u8
 #EXTINF:-1,深圳蛇口FHD
 http://218.17.99.211:82/hls/d4encs75.m3u8
 #EXTINF:-1,徐州4FHD
@@ -799,6 +801,8 @@ http://117.169.124.43:6610/ysten-businessmobile/live/fhzixun/index.m3u8
 https://liveprodeuwest.akamaized.net/eu1/Channel-EUTVqvs-AWS-ireland-1/Source-EUTVqvs-240-1_live.m3u8
 #EXTINF:-1,耀才財經台1
 http://202.69.67.66:443/webcast/bshdlive-pc/playlist.m3u8?wowzasessionid=64000
+#EXTINF:-1,卫视卡式
+http://kuqq.gq/ub.php?id=1085
 #EXTINF:-1,鳳凰資訊
 http://183.207.249.35/PLTV/3/224/3221226923/index.m3u8
 #EXTINF:-1,澳门卫视
@@ -901,6 +905,8 @@ https://myun-hw-s3.myun.tv/melj80jz/lxx27bol/1551285536499984128.m3u8
 https://liveprodeuwest.akamaized.net/eu1/Channel-EUTVqvs-AWS-ireland-1/Source-EUTVqvs-240-1_live.m3u8
 #EXTINF:-1 ,凤凰中文
 http://223.110.235.3/ott.js.chinamobile.com/PLTV/3/224/3221228057/index.m3u8$JS1080P
+#EXTINF:-1 ,凤凰资讯
+http://117.169.120.138:8080/live/fhzixun/index.m3u8
 #EXTINF:-1 ,凤凰资讯
 http://223.110.245.167/ott.js.chinamobile.com/PLTV/3/224/3221226923/index.m3u8?epg=tvmao-600?回看=http://72ltw.xyz/zcjwx/PLTV/zjhk.php?id=6491.smil
 #EXTINF:-1 ,凤凰资讯
