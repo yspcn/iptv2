@@ -91,14 +91,16 @@ https://pulltv2.wanfudaluye.com/live/tv2.m3u8
 https://pulltv3.wanfudaluye.com/live/tv3.m3u8
 #EXTINF:-1,NHK华语世界
 https://nhkworld.webcdn.stream.ne.jp/www11/nhkworld-tv/zh/725580/livecom_zh.m3u8
-#EXTINF:-1,RFI 法國國際廣播電臺
-https://rfienchinois64k.ice.infomaniak.ch/rfienchinois-64.mp3
 #EXTINF:-1,Al-Jazeera English
 https://live-hls-web-aje.getaj.net/AJE/01.m3u8
 #EXTINF:-1,Arirang
 http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
+#EXTINF:-1,CBC News
+https://1111296894.rsc.cdn77.org/LS-ATL-54548-8/index.m3u8
 #EXTINF:-1,Channel News Asia
 http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
+#EXTINF:-1,Fox News
+http://1111296894.rsc.cdn77.org/ls-54548-2/tracks-v1a1/mono.m3u8
 #EXTINF:-1,France 24
 http://static.france24.com/live/F24_EN_LO_HLS/live_web.m3u8
 #EXTINF:-1,KBS World
@@ -577,12 +579,12 @@ http://stream2.xiancity.cn/xatv4/sd/live.m3u8
 http://stream2.xiancity.cn/xatv5/sd/live.m3u8
 #EXTINF:-1,山西朔州新闻台
 http://stream.sxsztv.com/live4/sd/live.m3u8
-#EXTINF:-1,山西黄河
-http://live3.sxrtv.com/flvss?bitrate=512000&channel=HuangHeNews&start=0&provider=www.tvmining.com
 #EXTINF:-1,山西经济
 http://live3.sxrtv.com/flvss?bitrate=800000&channel=Shan1XiFinance&start=0&provider=www.tvmining.com
 #EXTINF:-1,山西影视
 http://live2.sxrtv.com/flvss?bitrate=800000&channel=Shan1XiFilm&start=0&provider=www.tvmining.com
+#EXTINF:-1,山西科教
+http://live3.sxrtv.com/flvss?bitrate=800000&channel=Shan1XiEdu&start=0&provider=www.tvmining.com
 #EXTINF:-1,山西少儿
 http://live2.sxrtv.com/flvss?bitrate=800000&channel=Shan1XiChild&start=0&provider=www.tvmining.com
 #EXTINF:-1,山东德州综合台
@@ -737,6 +739,8 @@ http://183.207.248.11/PLTV/3/224/3221225951/index.m3u8
 http://live.m2oplus.nmtv.cn/7/playlist.m3u8
 #EXTINF:-1,黔西南综合
 http://live.qxndt.com/channel2/sd/live.m3u8
+#EXTINF:-1,青海综合频道
+http://lmt.scqstv.com/live1/live1.m3u8
 #EXTINF:-1,青田电视台
 http://l.cztvcloud.com/channels/lantian/SXqingtian1/720p.m3u8
 #EXTINF:-1,靖江新闻HD
@@ -909,14 +913,16 @@ https://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
 https://www.news24.jp/livestream/index.m3u8
 #EXTINF:-1,日本-CGNTV
 http://cgntv-glive.ofsdelivery.net/live/_definst_/cgntv_jp/playlist.m3u8
-#EXTINF:-1 ,TVB 星河台 Xing He
-http://50.7.161.82:8278/streams/d/Xinhe/playlist.m3u8
+#EXTINF:-1,法语-TV5 Monde Info
+http://v3plusinfo247hls-i.akamaihd.net/hls/live/218877/v3plusinfo247hls/index.m3u8
 #EXTINF:-1 ,ViuTV (备)
 http://61.238.6.49:8000/bysid/99
 #EXTINF:-1 ,ViuTVsix
 http://61.238.6.49:8000/bysid/96
 #EXTINF:-1 ,香港電台普通話台
 https://rthkaudio6-lh.akamaihd.net/i/radiopth_1@355869/index_56_a-p.m3u8
+#EXTINF:-1 ,香港電台視像新聞直播
+https://rthkcnews-lh.akamaihd.net/i/rthknews_1@312607/index_190000011_av-b.m3u8
 #EXTINF:-1 ,香港C+
 http://gslbmeiah.cdn.hk.chinamobile.com/livehls/MOB-U1-NO/03.m3u8
 #EXTINF:-1 ,香港卫视文旅
