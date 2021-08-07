@@ -89,8 +89,8 @@ https://pulltv1.wanfudaluye.com/live/tv1.m3u8
 https://pulltv2.wanfudaluye.com/live/tv2.m3u8
 #EXTINF:-1,DaAi
 https://pulltv3.wanfudaluye.com/live/tv3.m3u8
-#EXTINF:-1,RFI 法國國際廣播電臺
-https://rfienchinois64k.ice.infomaniak.ch/rfienchinois-64.mp3
+#EXTINF:-1,NHK华语世界
+https://nhkworld.webcdn.stream.ne.jp/www11/nhkworld-tv/zh/725580/livecom_zh.m3u8
 #EXTINF:-1,Al-Jazeera English
 https://live-hls-web-aje.getaj.net/AJE/01.m3u8
 #EXTINF:-1,Arirang
@@ -105,8 +105,6 @@ http://1111296894.rsc.cdn77.org/ls-54548-2/tracks-v1a1/mono.m3u8
 http://static.france24.com/live/F24_EN_LO_HLS/live_web.m3u8
 #EXTINF:-1,KBS World
 https://livecdn.fptplay.net/sdb/kbs_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1,NDTV 24X7
-https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678/ndtv24x7/ndtv24x7master.m3u8
 #EXTINF:-1,Nippon TV News24 Japan
 https://n24-cdn-live.ntv.co.jp/ch01/index.m3u8
 #EXTINF:-1,Россия 24
@@ -431,6 +429,8 @@ http://117.156.28.119/270000001111/1110000028/index.m3u8
 http://yd-m-l.cztv.com/channels/lantian/channel012/1080p.m3u8
 #EXTINF:-1,北京纪实
 http://39.134.115.163:8080/PLTV/88888910/224/3221225676/index.m3u8
+#EXTINF:-1,上海教育
+http://live.setv.sh.cn/slive/shedu02_1200k.m3u8
 #EXTINF:-1,上海新闻
 http://183.207.255.188/live/program/live/xwzhhd/4000000/mnf.m3u8
 #EXTINF:-1,上海影视
@@ -525,6 +525,8 @@ http://qxlmlive.cbg.cn:1935/app_2/ls_40.stream/playlist.m3u8
 http://hwzbout.yunshicloud.com/gbqei5/12661u.m3u8
 #EXTINF:-1,云南丽江公共台
 http://hwzbout.yunshicloud.com/mj1170/06qk26.m3u8
+#EXTINF:-1,云南普洱综合台
+http://hwzbout.yunshicloud.com/701aec/orx377.m3u8
 #EXTINF:-1,云南马关电视台
 http://m3u8.channel.wsrtv.com.cn/cms/videos/nmip-media/channellive/channel12/playlist.m3u8
 #EXTINF:-1,云南麻栗坡电视
@@ -565,10 +567,6 @@ http://live2.sxrtv.com/flvss?bitrate=800000&channel=Shan1XiFilm&start=0&provider
 http://live3.sxrtv.com/flvss?bitrate=800000&channel=Shan1XiEdu&start=0&provider=www.tvmining.com
 #EXTINF:-1,山西少儿
 http://live2.sxrtv.com/flvss?bitrate=800000&channel=Shan1XiChild&start=0&provider=www.tvmining.com
-#EXTINF:-1,山东德州综合台
-http://video.dztv.tv:1935/live/xwzh_gq/playlist.m3u8
-#EXTINF:-1,山东德州公共台
-http://video.dztv.tv:1935/live/dzgg_gq/playlist.m3u8
 #EXTINF:-1,深圳蛇口
 http://218.17.99.211:5080/hls/ttsw6ccn.m3u8
 #EXTINF:-1,吉林都市
@@ -669,6 +667,8 @@ http://60.30.52.41/live/bhtv2/playlist.m3u8
 http://media.vtibet.com/masvod/HLSLive/7/zangyuTV_q1.m3u8
 #EXTINF:-1,舟山群岛旅游
 http://live.wifizs.cn/qdly/sd/live.m3u8
+#EXTINF:-1,北碚综合频道
+http://222.178.181.121:12034/beibei01.m3u8
 #EXTINF:-1,滨州测试频道
 http://stream.bzcm.net/4/sd/live.m3u8
 #EXTINF:-1,亳州新闻综合
@@ -781,6 +781,10 @@ http://39.135.138.60:18890/PLTV/88888910/224/3221225710/index.m3u8
 http://39.135.138.60:18890/PLTV/88888910/224/3221225648/index.m3u8
 #EXTINF:-1,NewTV超级电影
 http://39.135.138.60:18890/PLTV/88888910/224/3221225623/index.m3u8
+#EXTINF:-1,NewTV超级电影
+http://39.135.138.60:18890/PLTV/88888910/224/3221225766/index.m3u8
+#EXTINF:-1,NewTV超级电视
+http://39.135.138.60:18890/PLTV/88888910/224/3221225765/index.m3u8
 #EXTINF:-1,NewTV超级综艺
 http://39.135.138.60:18890/PLTV/88888910/224/3221225768/index.m3u8
 #EXTINF:-1,NewTV超级综艺
@@ -885,8 +889,6 @@ https://www.news24.jp/livestream/index.m3u8
 http://cgntv-glive.ofsdelivery.net/live/_definst_/cgntv_jp/playlist.m3u8
 #EXTINF:-1,法语-TV5 Monde Info
 http://v3plusinfo247hls-i.akamaihd.net/hls/live/218877/v3plusinfo247hls/index.m3u8
-#EXTINF:-1 ,TVB 星河台 Xing He
-http://50.7.161.82:8278/streams/d/Xinhe/playlist.m3u8
 #EXTINF:-1 ,ViuTV (备)
 http://61.238.6.49:8000/bysid/99
 #EXTINF:-1 ,ViuTVsix
