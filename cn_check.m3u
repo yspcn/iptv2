@@ -39,14 +39,14 @@ http://sk.cri.cn/887.m3u8
 http://sk.cri.cn/nhzs.m3u8
 #EXTINF:-1,CRI 环球资讯广播 FM90.5
 http://sk.cri.cn/905.m3u8
-#EXTINF:-1,英语资讯广播 China Plus Radio
-http://cnlive.cnr.cn/hls/yyzxgb.m3u8
 #EXTINF:-1,CRI 中文环球广播
 http://sk.cri.cn/hyhq.m3u8
 #EXTINF:-1,CRI 海峡飞虹
 http://sk.cri.cn/hxfh.m3u8
 #EXTINF:-1,CRI NEWS Plus AM846
 http://sk.cri.cn/am846.m3u8
+#EXTINF:-1,耀才财经
+http://202.69.67.66:443/webcast/bshdlive-pc/playlist.m3u8
 #EXTINF:-1,Pearl
 http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=12&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1
 #EXTINF:-1,星空衛視
@@ -89,6 +89,8 @@ https://pulltv2.wanfudaluye.com/live/tv2.m3u8
 https://pulltv3.wanfudaluye.com/live/tv3.m3u8
 #EXTINF:-1,NHK华语世界
 https://nhkworld.webcdn.stream.ne.jp/www11/nhkworld-tv/zh/725580/livecom_zh.m3u8
+#EXTINF:-1,RFI 法國國際廣播電臺
+https://rfienchinois64k.ice.infomaniak.ch/rfienchinois-64.mp3
 #EXTINF:-1,Al-Jazeera English
 https://live-hls-web-aje.getaj.net/AJE/01.m3u8
 #EXTINF:-1,Arirang
@@ -371,8 +373,6 @@ http://117.169.124.36:6610/ysten-businessmobile/live/cctv-6/1.m3u8
 http://117.169.124.36:6610/ysten-businessmobile/live/cctv-8/1.m3u8
 #EXTINF:-1,CCTV-15
 http://39.135.138.60:18890/PLTV/88888910/224/3221225641/index.m3u8
-#EXTINF:-1,爱上4K频道
-http://111.20.105.60:6060/yinhe/2/ch00000090990000001709/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 #EXTINF:-1,东方卫视
 http://39.135.138.59:18890/PLTV/88888910/224/3221225659/index.m3u8
 #EXTINF:-1,东南卫视
@@ -559,6 +559,8 @@ http://stream2.xiancity.cn/xatv5/sd/live.m3u8
 http://stream.sxsztv.com/live4/sd/live.m3u8
 #EXTINF:-1,山西黄河
 http://live3.sxrtv.com/flvss?bitrate=512000&channel=HuangHeNews&start=0&provider=www.tvmining.com
+#EXTINF:-1,山西经济
+http://live3.sxrtv.com/flvss?bitrate=800000&channel=Shan1XiFinance&start=0&provider=www.tvmining.com
 #EXTINF:-1,山西影视
 http://live2.sxrtv.com/flvss?bitrate=800000&channel=Shan1XiFilm&start=0&provider=www.tvmining.com
 #EXTINF:-1,山西科教
@@ -763,10 +765,6 @@ http://39.135.138.60:18890/PLTV/88888910/224/3221226185/index.m3u8
 http://39.135.138.60:18890/PLTV/88888910/224/3221226186/index.m3u8
 #EXTINF:-1,NewTV惊悚悬疑
 http://39.135.138.60:18890/PLTV/88888910/224/3221225717/index.m3u8
-#EXTINF:-1,NewTV武博世界
-http://39.135.138.60:18890/PLTV/88888910/224/3221225656/index.m3u8
-#EXTINF:-1,NewTV江西频道
-http://39.135.138.60:18890/PLTV/88888910/224/3221225979/index.m3u8
 #EXTINF:-1,NewTV潮妈辣婆
 http://39.135.138.60:18890/PLTV/88888910/224/3221225708/index.m3u8
 #EXTINF:-1,NewTV炫舞未来
@@ -803,8 +801,8 @@ http://117.169.124.43:6610/ysten-businessmobile/live/fhzixun/index.m3u8
 https://liveprodeuwest.akamaized.net/eu1/Channel-EUTVqvs-AWS-ireland-1/Source-EUTVqvs-240-1_live.m3u8
 #EXTINF:-1,澳亚卫视
 http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=192&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1
-#EXTINF:-1,卫视卡式
-http://kuqq.gq/ub.php?id=1085
+#EXTINF:-1,耀才財經台1
+http://202.69.67.66:443/webcast/bshdlive-pc/playlist.m3u8?wowzasessionid=64000
 #EXTINF:-1,鳳凰資訊
 http://183.207.249.35/PLTV/3/224/3221226923/index.m3u8
 #EXTINF:-1,澳门卫视
@@ -837,8 +835,6 @@ http://140.207.241.2:8080/live/program/live/dsjchd/4000000/mnf.m3u8
 http://140.207.241.2:8080/live/program/live/fztd/1300000/mnf.m3u8
 #EXTINF:-1,SiTV七彩戏剧 540
 http://140.207.241.2:8080/live/program/live/qcxj/1300000/mnf.m3u8
-#EXTINF:-1,SiTV东方财经 540
-http://140.207.241.2:8080/live/program/live/dfcj/1300000/mnf.m3u8
 #EXTINF:-1,湖北孝感新闻综合
 http://xiaogan.live.cjyun.org/video/s10139-xg/index.m3u8
 #EXTINF:-1,湖北孝感公共频道
@@ -939,6 +935,12 @@ http://61.244.22.5/ch3/_definst_/ch3.live/playlist.m3u8
 http://61.244.22.5/ch3/ch3.live/chunklist_w1228316132.m3u8
 #EXTINF:-1 ,澳门资讯
 http://61.244.22.5/ch5/_definst_/info_ch5.live/playlist.m3u8
+#EXTINF:-1 ,耀才財經台1
+http://202.69.67.66:443/webcast/bshdlive-pc/playlist.m3u8?wowzasessionid=64000
+#EXTINF:-1 ,耀才财经
+http://202.69.67.66:443/webcast/bshdlive-mobile/playlist.m3u8
+#EXTINF:-1 ,耀才财经
+http://202.69.67.66:443/webcast/bshdlive-pc/playlist.m3u8
 #EXTINF:-1 ,WarnerTV HD
 https://www.livedoomovie.com/02_WarnerTVHD_720p/chunklist.m3u8
 #EXTINF:-1 ,Tennis HD
