@@ -91,6 +91,8 @@ https://pulltv2.wanfudaluye.com/live/tv2.m3u8
 https://pulltv3.wanfudaluye.com/live/tv3.m3u8
 #EXTINF:-1,NHK华语世界
 https://nhkworld.webcdn.stream.ne.jp/www11/nhkworld-tv/zh/725580/livecom_zh.m3u8
+#EXTINF:-1,RFI 法國國際廣播電臺
+https://rfienchinois64k.ice.infomaniak.ch/rfienchinois-64.mp3
 #EXTINF:-1,Al-Jazeera English
 https://live-hls-web-aje.getaj.net/AJE/01.m3u8
 #EXTINF:-1,Arirang
@@ -827,12 +829,16 @@ http://140.207.241.2:8080/live/program/live/dmxchd/4000000/mnf.m3u8
 http://140.207.241.2:8080/live/program/live/yxfyhd/4000000/mnf.m3u8
 #EXTINF:-1,SiTV魅力足球 1080
 http://140.207.241.2:8080/live/program/live/mlyyhd/4000000/mnf.m3u8
+#EXTINF:-1,SiTV欢笑剧场 1080
+http://140.207.241.2:8080/live/program/live/hxjchd/4000000/mnf.m3u8
 #EXTINF:-1,SiTV生活时尚 1080
 http://140.207.241.2:8080/live/program/live/shsshd/4000000/mnf.m3u8
 #EXTINF:-1,SiTV全纪实 1080
 http://140.207.241.2:8080/live/program/live/qjshd/4000000/mnf.m3u8
 #EXTINF:-1,SiTV都市剧场 1080
 http://140.207.241.2:8080/live/program/live/dsjchd/4000000/mnf.m3u8
+#EXTINF:-1,SiTV法治天地 540
+http://140.207.241.2:8080/live/program/live/fztd/1300000/mnf.m3u8
 #EXTINF:-1,SiTV七彩戏剧 540
 http://140.207.241.2:8080/live/program/live/qcxj/1300000/mnf.m3u8
 #EXTINF:-1,SiTV东方财经 540
@@ -887,6 +893,8 @@ https://www.news24.jp/livestream/index.m3u8
 http://cgntv-glive.ofsdelivery.net/live/_definst_/cgntv_jp/playlist.m3u8
 #EXTINF:-1,法语-TV5 Monde Info
 http://v3plusinfo247hls-i.akamaihd.net/hls/live/218877/v3plusinfo247hls/index.m3u8
+#EXTINF:-1 ,TVB 星河台 Xing He
+http://50.7.161.82:8278/streams/d/Xinhe/playlist.m3u8
 #EXTINF:-1 ,ViuTV (备)
 http://61.238.6.49:8000/bysid/99
 #EXTINF:-1 ,ViuTVsix
@@ -903,6 +911,8 @@ https://myun-hw-s3.myun.tv/melj80jz/lxx27bol/1551285536499984128.m3u8
 https://liveprodeuwest.akamaized.net/eu1/Channel-EUTVqvs-AWS-ireland-1/Source-EUTVqvs-240-1_live.m3u8
 #EXTINF:-1 ,凤凰中文
 http://223.110.235.3/ott.js.chinamobile.com/PLTV/3/224/3221228057/index.m3u8$JS1080P
+#EXTINF:-1 ,凤凰资讯
+http://117.169.120.138:8080/live/fhzixun/index.m3u8
 #EXTINF:-1 ,凤凰资讯
 http://223.110.245.167/ott.js.chinamobile.com/PLTV/3/224/3221226923/index.m3u8?epg=tvmao-600?回看=http://72ltw.xyz/zcjwx/PLTV/zjhk.php?id=6491.smil
 #EXTINF:-1 ,凤凰资讯
