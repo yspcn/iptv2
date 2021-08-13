@@ -87,8 +87,6 @@ https://pulltv2.wanfudaluye.com/live/tv2.m3u8
 https://pulltv3.wanfudaluye.com/live/tv3.m3u8
 #EXTINF:-1,NHK华语世界
 https://nhkworld.webcdn.stream.ne.jp/www11/nhkworld-tv/zh/725580/livecom_zh.m3u8
-#EXTINF:-1,RFI 法國國際廣播電臺
-https://rfienchinois64k.ice.infomaniak.ch/rfienchinois-64.mp3
 #EXTINF:-1,Al-Jazeera English
 https://live-hls-web-aje.getaj.net/AJE/01.m3u8
 #EXTINF:-1,Arirang
@@ -403,10 +401,6 @@ http://39.134.115.163:8080/PLTV/88888910/224/3221225723/index.m3u8
 http://live.m2oplus.nmtv.cn/1/sd/live.m3u8
 #EXTINF:-1,CHC动作电影
 http://125.210.152.18:9090/live/DZDYHD_H265.m3u8
-#EXTINF:-1,香港卫视
-http://zhibo.hkstv.tv/livestream/mutfysrq.flv
-#EXTINF:-1,澳门奥视
-http://61.244.22.5/ch1/ch1.live/playelist.m3u8
 #EXTINF:-1,澳门葡语
 http://61.244.22.5/ch2/ch2.live/chunklist_w1632175875.m3u8
 #EXTINF:-1,日本NHK华语
@@ -659,6 +653,8 @@ http://streaming.czgd.cn:8084/7223161a96984d81b711d762d7e7fdd1/h264_300k_ts/inde
 http://streaming.czgd.cn:8084/2b7f0174d0f44c34bf466fc0ab801a3a/h264_300k_ts/index.m3u8?type=hls_live_redirect
 #EXTINF:-1,孝义新闻综合
 http://app.xygdcm.com:2036/live/stream:xy1.stream/playlist.m3u8
+#EXTINF:-1,文水时尚秀
+http://sxws.chinashadt.com:1938/live/tv11.stream_360p/playlist.m3u8
 #EXTINF:-1,滨海新闻
 http://60.30.52.41/live/bhtv1/playlist.m3u8
 #EXTINF:-1,滨海综艺
@@ -795,12 +791,12 @@ http://117.169.124.43:6610/ysten-businessmobile/live/fhchinese/index.m3u8
 http://117.169.124.37:6610/ysten-businessmobile/live/fhzixun/1.m3u8
 #EXTINF:-1,凤凰资讯
 http://117.169.124.43:6610/ysten-businessmobile/live/fhzixun/index.m3u8
-#EXTINF:-1,风凰资讯
-https://liveprodeuwest.akamaized.net/eu1/Channel-EUTVqvs-AWS-ireland-1/Source-EUTVqvs-240-1_live.m3u8
 #EXTINF:-1,澳亚卫视
 http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=192&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1
 #EXTINF:-1,耀才財經台1
 http://202.69.67.66:443/webcast/bshdlive-pc/playlist.m3u8?wowzasessionid=64000
+#EXTINF:-1,卫视卡式
+http://kuqq.gq/ub.php?id=1085
 #EXTINF:-1,鳳凰資訊
 http://183.207.249.35/PLTV/3/224/3221226923/index.m3u8
 #EXTINF:-1,澳门卫视
@@ -913,10 +909,6 @@ http://117.169.124.43:6610/ysten-businessmobile/live/fhzixun/index.m3u8
 http://223.110.236.2/ott.js.chinamobile.com/PLTV/3/224/3221228060/index.m3u8$JS1080P
 #EXTINF:-1 ,澳亚卫视
 http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=192&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1
-#EXTINF:-1 ,澳视澳门
-http://61.244.22.4/ch1/ch1.live/playelist.m3u8
-#EXTINF:-1 ,澳视澳门
-http://61.244.22.5/ch1/_definst_/ch1.live/playlist.m3u8
 #EXTINF:-1 ,澳视葡文
 http://61.244.22.4/ch2/ch2.live/chunklist_w1632175875.m3u8
 #EXTINF:-1 ,澳视资讯
