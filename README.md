@@ -9,6 +9,12 @@
 
 
 
+最近测试新开发的弹幕功能，小程序可能会有异常。
+![输入图片说明](https://images.gitee.com/uploads/images/2021/0814/221719_bfccc901_1280996.jpeg "微信图片_20210814221650.jpg")
+
+
+
+
 
 ![输入图片说明](https://images.gitee.com/uploads/images/2021/0801/220213_a72010c7_1280996.jpeg "微信图片_20210801220134.jpg")
 
