@@ -355,6 +355,8 @@ http://gcalic.v.myalicdn.com/gc/xiongmao23_1/index.m3u8
 http://gcalic.v.myalicdn.com/gc/xiongmao24_1/index.m3u8
 #EXTINF:-1,成都高清
 http://gcalic.v.myalicdn.com/gc/ipanda_1td/index.m3u8
+#EXTINF:-1,都江堰高清
+http://gcalic.v.myalicdn.com/gc/ipanda1000_1td/index.m3u8
 #EXTINF:-1,CCTV-31
 http://117.169.124.36:6610/ysten-businessmobile/live/cctv-3/1.m3u8
 #EXTINF:-1,CCTV-3
@@ -551,8 +553,6 @@ http://stream2.xiancity.cn/xatv2/sd/live.m3u8
 http://stream2.xiancity.cn/xatv4/sd/live.m3u8
 #EXTINF:-1,陕西西安丝路台
 http://stream2.xiancity.cn/xatv5/sd/live.m3u8
-#EXTINF:-1,山西朔州新闻台
-http://stream.sxsztv.com/live4/sd/live.m3u8
 #EXTINF:-1,山西黄河
 http://live3.sxrtv.com/flvss?bitrate=512000&channel=HuangHeNews&start=0&provider=www.tvmining.com
 #EXTINF:-1,山西经济
@@ -705,8 +705,6 @@ http://zbbf2.ahtv.cn/live/752.m3u8
 http://live.pybtv.cn/channel1/sd/live.m3u8
 #EXTINF:-1,江苏综艺
 http://183.207.248.71/gitv/live1/G_JSZY/G_JSZY
-#EXTINF:-1,深圳东部HD
-http://liveplay.sznews.com/66_norecord_live/343.m3u8
 #EXTINF:-1,深圳蛇口FHD
 http://218.17.99.211:82/hls/d4encs75.m3u8
 #EXTINF:-1,徐州4FHD
