@@ -21,8 +21,6 @@ http://live.geermurmt.com/qhws/sd/live.m3u8
 http://live.ybtvyun.com/video/s10006-44f040627ca1/index.m3u8
 #EXTINF:-1,康巴卫视 高清
 http://scgctvshow.sctv.com/hdlive/kangba/index.m3u8
-#EXTINF:-1,新视觉 HD
-http://140.207.241.2:8080/live/program/live/xsjhd/4000000/mnf.m3u8
 #EXTINF:-1,中国交通四川
 https://tv.lanjingfm.com/cctbn/sichuan.m3u8
 #EXTINF:-1,中国交通海南
