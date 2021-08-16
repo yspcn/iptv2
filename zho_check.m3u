@@ -127,10 +127,6 @@ http://live.nbs.cn/channels/njtv/sepd/m3u8:500k/live.m3u8
 http://live.nbs.cn/channels/njtv/xwzh/m3u8:500k/live.m3u8
 #EXTINF:-1 tvg-id="NanJingShengHuo.cn" tvg-name="南京生活" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="",南京生活 (720p)
 http://live.nbs.cn/channels/njtv/shpd/m3u8:500k/live.m3u8
-#EXTINF:-1 tvg-id="NanChuanXinWenZongHe.cn" tvg-name="南川新闻综合" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="",南川新闻综合 (360p)
-http://221.5.213.4:30000/1111.m3u8
-#EXTINF:-1 tvg-id="NanChuanLuYouJingJi.cn" tvg-name="南川旅游经济" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="",南川旅游经济 (360p)
-http://221.5.213.4:30000/2222.m3u8
 #EXTINF:-1 tvg-id="YuanZhuMinDianShi.cn" tvg-name="原住民電視" tvg-country="CN" tvg-language="Chinese" tvg-logo="http://titv.ipcf.org.tw/images/logo.png?v1.1" group-title="",原住民電視 (720p)
 http://streamipcf.akamaized.net/live/_definst_/live_720/key_b1500.m3u8
 #EXTINF:-1 tvg-id="YuanZuMin.tw" tvg-name="原住民電視" tvg-country="TW" tvg-language="Chinese" tvg-logo="http://titv.ipcf.org.tw/images/logo.png" group-title="General",原住民電視 (720p)
