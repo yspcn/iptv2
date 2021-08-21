@@ -355,6 +355,8 @@ http://222.179.155.21:1935/ch1.m3u8
 http://222.179.155.21:1935/ch0.m3u8
 #EXTINF:-1 tvg-id="JiangSuWeiShi.cn" tvg-name="江苏卫视" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="",江苏卫视HD (Jiangsu Television) (720p)
 http://223.82.250.72/live/hdjiangsustv/1.m3u8
+#EXTINF:-1 tvg-id="JiangSuWeiShi.cn" tvg-name="江苏卫视" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="",江苏卫视高清 (1080p)
+http://117.169.120.140:8080/live/hdjiangsustv/.m3u8
 #EXTINF:-1 tvg-id="JiangSuXinWenGuangBo.cn" tvg-name="江苏新闻广播" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="",江苏新闻广播
 http://lzlive.vojs.cn/5Fo8mMX/92/live.m3u8
 #EXTINF:-1 tvg-id="JiangSuJingDianLiuXingYinLeGuangBo.cn" tvg-name="江苏经典流行音乐广播" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="",江苏经典流行音乐广播
@@ -457,8 +459,6 @@ http://tv.scwlqw.cn:3100/hls/kqcyufpi/index.m3u8
 http://hbxx.chinashadt.com:3299/live/stream:di7.stream_360p/chunklist.m3u8
 #EXTINF:-1 tvg-id="XianXian2Tai.cn" tvg-name="献县2台" tvg-country="CN" tvg-language="Chinese" tvg-logo="http://inews.gtimg.com/newsapp_ls/0/420589832_200200/0.jpg" group-title="News",献县2台 (360p)
 http://hbxx.chinashadt.com:3299/live/stream:di8.stream_360p/chunklist.m3u8
-#EXTINF:-1 tvg-id="42" tvg-name="甘肃卫视" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="",甘肃卫视
-http://117.169.120.140:8080/live/gansustv/.m3u8
 #EXTINF:-1 tvg-id="DianBaiZongHe.cn" tvg-name="电白综合" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="",电白综合 (576p)
 http://gddb.chinashadt.com:1935/live/video1.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="DianBaiZongHe.cn" tvg-name="电白综合" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="",电白综合 (360p)
@@ -497,6 +497,8 @@ https://lylive-videorent.cdn.hinet.net/out/u/live/gop4/ly/ly-Live5/hls-cl-tv/ind
 https://lylive-videorent.cdn.hinet.net/out/u/live/gop4/ly/ly-Live2/hls-cl-tv/index.m3u8
 #EXTINF:-1 tvg-id="LiFaYuanIVODZhiBoYuanHui.tw" tvg-name="立法院IVOD直播院會" tvg-country="TW" tvg-language="Chinese" tvg-logo="https://i.imgur.com/PxYhFpb.png" group-title="Legislative",立法院IVOD直播院會 (450p)
 https://lylive-videorent.cdn.hinet.net/out/u/live/gop4/ly/ly-Live1/hls-cl-tv/index.m3u8
+#EXTINF:-1 tvg-id="MeiGuoZhongWenDianShi.cn" tvg-name="美国中文电视" tvg-country="CN" tvg-language="Chinese" tvg-logo="https://ss0.baidu.com/-Po3dSag_xI4khGko9WTAnF6hhy/baike/pic/item/4034970a304e251f46b43584a786c9177f3e530f.jpg" group-title="",美国中文电视 (406p)
+https://jpts.sinovision.net/livestream.m3u8
 #EXTINF:-1 tvg-id="FeiCuiTai81.hk" tvg-name="翡翠台（81）" tvg-country="HK" tvg-language="Chinese;Yue Chinese" tvg-logo="http://img.tvb.com/corporate/_fck_/image/Jade_logo_L(1).jpg" group-title="",翡翠台（81） (1080p)
 http://61.238.6.49:8000/bysid/1
 #EXTINF:-1 tvg-id="YaoCaiCaiJingTai.hk" tvg-name="耀才財經台" tvg-country="HK" tvg-language="Chinese;Yue Chinese" tvg-logo="https://i.imgur.com/xliVoIt.jpg?1" group-title="Shop",耀才財經台 (576p)
