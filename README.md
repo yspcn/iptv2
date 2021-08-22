@@ -6,15 +6,12 @@
 
  > **IPTV 微信小程序版** 
 
-![输入图片说明](https://images.gitee.com/uploads/images/2021/0801/182037_7d5ab2cc_1280996.jpeg "iptv.jpg")
+![输入图片说明](https://images.gitee.com/uploads/images/2021/0822/224416_1506b9d0_1280996.jpeg "gh_46c49e1c96fb_430.jpg")
 
 > **-----------------------------** 
 
-![输入图片说明](https://images.gitee.com/uploads/images/2021/0820/174027_3f69804d_1280996.jpeg "微信图片_20210820171128.jpg")
+![输入图片说明](https://images.gitee.com/uploads/images/2021/0822/224622_ec971493_1280996.jpeg "微信图片_20210822224545.jpg")
 
-> **-----------------------------** 
-
-![输入图片说明](https://images.gitee.com/uploads/images/2021/0820/174257_5381c7c0_1280996.jpeg "微信图片_20210820171119.jpg")
 
 > **-----------------------------** 
 
