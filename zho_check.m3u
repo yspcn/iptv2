@@ -13,6 +13,8 @@ http://117.169.120.140:8080/live/cctv-13/.m3u8
 http://125.210.152.10:8060/live/CCTV2HD_H265.m3u8
 #EXTINF:-1 tvg-id="CCTV3.cn" tvg-name="CCTV3" tvg-country="CN" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/3/34/CCTV-3_Logo.png" group-title="Entertainment",CCTV中国中央电视台-3 综艺 (1080p)
 http://117.169.120.140:8080/live/cctv-3/.m3u8
+#EXTINF:-1 tvg-id="CCTV6.cn" tvg-name="CCTV6" tvg-country="CN" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/0/0c/CCTV-6_Logo.png" group-title="Movies",CCTV中国中央电视台-6 电影
+http://117.169.120.140:8080/live/cctv-6/.m3u8
 #EXTINF:-1 tvg-id="CNCZhongWen.cn" tvg-name="CNC中文" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="",CNC中文 (720p)
 http://source07.v.news.cn/live/CNC_CN/playlist.m3u8
 #EXTINF:-1 tvg-id="HunanCity.cn" tvg-name="Hunan City" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="",Hunan City (576p)
