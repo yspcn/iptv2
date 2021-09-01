@@ -13,8 +13,6 @@ http://117.169.120.140:8080/live/cctv-13/.m3u8
 http://125.210.152.10:8060/live/CCTV2HD_H265.m3u8
 #EXTINF:-1 tvg-id="CCTV3.cn" tvg-name="CCTV3" tvg-country="CN" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/3/34/CCTV-3_Logo.png" group-title="Entertainment",CCTV中国中央电视台-3 综艺 (1080p)
 http://117.169.120.140:8080/live/cctv-3/.m3u8
-#EXTINF:-1 tvg-id="CCTV6.cn" tvg-name="CCTV6" tvg-country="CN" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/0/0c/CCTV-6_Logo.png" group-title="Movies",CCTV中国中央电视台-6 电影
-http://117.169.120.140:8080/live/cctv-6/.m3u8
 #EXTINF:-1 tvg-id="CNCZhongWen.cn" tvg-name="CNC中文" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="",CNC中文 (720p)
 http://source07.v.news.cn/live/CNC_CN/playlist.m3u8
 #EXTINF:-1 tvg-id="HunanCity.cn" tvg-name="Hunan City" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="",Hunan City (576p)
@@ -97,6 +95,8 @@ http://stream.jinjiang.tv/1/sd/live.m3u8
 http://live.china-latv.com/channel2/playlist.m3u8
 #EXTINF:-1 tvg-id="LiuAnXinWenZongHe.cn" tvg-name="六安新闻综合" tvg-country="CN" tvg-language="Chinese" tvg-logo="http://www.china-latv.com/t/icon/201901/20190107160038YJK.png" group-title="",六安新闻综合 (720p)
 http://live.china-latv.com/channel1/playlist.m3u8
+#EXTINF:-1 tvg-id="NeiMengGuWeiShi.cn" tvg-name="内蒙古卫视" tvg-country="CN" tvg-language="Chinese" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/neimeng.png" group-title="",内蒙古卫视
+http://117.169.120.140:8080/live/neimenggustv/.m3u8
 #EXTINF:-1 tvg-id="NeiMengGuWeiShi.cn" tvg-name="内蒙古卫视" tvg-country="CN" tvg-language="Chinese" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/neimeng.png" group-title="",内蒙古卫视 (1080p)
 http://live.m2oplus.nmtv.cn/1/playlist.m3u8
 #EXTINF:-1 tvg-id="NeiMengGuWeiShi.cn" tvg-name="内蒙古卫视" tvg-country="CN" tvg-language="Chinese" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/neimeng.png" group-title="",内蒙古卫视 (576p)
@@ -151,16 +151,6 @@ http://117.169.120.140:8080/live/jilinstv/.m3u8
 http://stream1.jlntv.cn/xcpd/sd/live.m3u8?_upt=ed8b01841531576074
 #EXTINF:-1 tvg-id="WuJiangXinWenZongHe.cn" tvg-name="吴江新闻综合" tvg-country="CN" tvg-language="Chinese" tvg-logo="http://www.tvyan.com/uploads/dianshi/wujiangtv.jpg" group-title="",吴江新闻综合 (720p) [Not 24/7]
 http://30515.hlsplay.aodianyun.com/lms_30515/tv_channel_239.m3u8
-#EXTINF:-1 tvg-id="ZhouKouTuWenXinXi.cn" tvg-name="周口图文信息" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="",周口图文信息 (576p)
-http://tv.zkxww.com:1935/live4/mp4:ch4-500k/playlist.m3u8
-#EXTINF:-1 tvg-id="ZhouKouKeJiaoWenHua2.cn" tvg-name="周口科教文化2" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="",周口科教文化2 (576p)
-http://tv.zkxww.com:1935/live3/mp4:ch3-500k/playlist.m3u8
-#EXTINF:-1 tvg-id="ZhouKouJingJiShengHuo2.cn" tvg-name="周口经济生活2" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="",周口经济生活2 (576p)
-http://tv.zkxww.com:1935/live2/mp4:ch2-500k/playlist.m3u8
-#EXTINF:-1 tvg-id="WeiXinDianShi.cn" tvg-name="唯心電視" tvg-country="CN" tvg-language="Chinese" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/weixin.png" group-title="",唯心電視 (480p)
-http://mobile.ccdntech.com/transcoder/_definst_/vod164_Live/live/chunklist_w1177047531.m3u8
-#EXTINF:-1 tvg-id="WeiXingDianShi.tw" tvg-name="唯心電視" tvg-country="TW" tvg-language="Chinese" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/weixin.png" group-title="Religious",唯心電視 (480p)
-http://mobile.ccdntech.com/transcoder/_definst_/vod164_Live/live/chunklist_w1177047531.m3u8
 #EXTINF:-1 tvg-id="SiChuanWeiShi.cn" tvg-name="四川卫视" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="",四川卫视 (576p)
 http://223.82.250.72/live/sichuanstv/1.m3u8
 #EXTINF:-1 tvg-id="ZengChengZongHe.cn" tvg-name="增城综合" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="",增城综合 (576p)
@@ -247,6 +237,8 @@ http://nlive.zjkgdcs.com:8091/live/xwzhpd.m3u8
 http://3gvod.zjgonline.com.cn:1935/live/xinwenzonghe2/playlist.m3u8
 #EXTINF:-1 tvg-id="ZhangJiaGangSheHuiShengHuo.cn" tvg-name="张家港社会生活" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="",张家港社会生活 (720p)
 http://3gvod.zjgonline.com.cn:1935/live/shehuishenghuo2/playlist.m3u8
+#EXTINF:-1 tvg-id="ZhangJiaJie1.cn" tvg-name="张家界1" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="",张家界1 (1080p) [Not 24/7]
+http://stream.zjjrtv.com/zjjtv1/hd/live.m3u8
 #EXTINF:-1 tvg-id="PengShuiWenHuaLuYou.cn" tvg-name="彭水文化旅游" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="",彭水文化旅游 (288p)
 http://pengshuilive.cbg.cn/pengshui02.m3u8
 #EXTINF:-1 tvg-id="PengShuiXinWenZongHe.cn" tvg-name="彭水新闻综合" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="",彭水新闻综合 (288p)
@@ -271,6 +263,10 @@ http://video.dztv.tv:1935/live/xwzh_gq/playlist.m3u8
 http://video.dztv.tv:1935/live/xwzh_sj/playlist.m3u8
 #EXTINF:-1 tvg-id="XinYueZhiShengGongYiGuangBo.cn" tvg-name="心约之声公益广播" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="",心约之声公益广播 [Not 24/7]
 http://4521.hlsplay.aodianyun.com/xyzs/stream.m3u8
+#EXTINF:-1 tvg-id="ZhongXianWenLuPinDao.cn" tvg-name="忠县文旅频道" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="",忠县文旅频道 (576p) [Not 24/7]
+http://qxlmlive.cbg.cn:1935/app_2/_definst_/ls_36.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="ZhongXianZongHePinDao.cn" tvg-name="忠县综合频道" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="",忠县综合频道 (576p) [Not 24/7]
+http://qxlmlive.cbg.cn:1935/app_2/_definst_/ls_35.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="HuiZhouXinWenZongHe.cn" tvg-name="惠州新闻综合" tvg-country="CN" tvg-language="Chinese" tvg-logo="http://www.tvyan.com/uploads/dianshi/hztv1.jpg" group-title="",惠州新闻综合 (480p)
 http://dslive.grtn.cn/hzzh/sd/live.m3u8
 #EXTINF:-1 tvg-id="FangShanDianShiTai.cn" tvg-name="房山电视台" tvg-country="CN" tvg-language="Chinese" tvg-logo="http://img.funhillrm.com/201912173520409e01fadc9c2811d72ff26f62ef.png" group-title="",房山电视台
@@ -297,10 +293,6 @@ http://223.82.250.72/live/lvyoustv/1.m3u8
 https://n24-cdn-live.ntv.co.jp/ch01/index.m3u8
 #EXTINF:-1 tvg-id="XingKongWeiShi.cn" tvg-name="星空卫视" tvg-country="CN" tvg-language="Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/XingXong.svg/300px-XingXong.svg.png" group-title="",星空卫视
 https://liveanevia.mncnow.id/live/eds/XingKongTV/sa_dash_vmx/XingKongTV.mpd
-#EXTINF:-1 tvg-id="JinZhongGongGong.cn" tvg-name="晋中公共" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="",晋中公共 (1080p)
-http://jzlive.jztvnews.com:90/live/jzgg.m3u8
-#EXTINF:-1 tvg-id="JinZhongZongHe.cn" tvg-name="晋中综合" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="",晋中综合 (1080p)
-http://jzlive.jztvnews.com:90/live/jzzh.m3u8
 #EXTINF:-1 tvg-id="JingXianDianShiYiTao.cn" tvg-name="景县电视一套" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="",景县电视一套 (360p)
 http://hbjx.chinashadt.com:1935/live/stream:jx1.stream_360p/playlist.m3u8
 #EXTINF:-1 tvg-id="JingXianDianShiErTao.cn" tvg-name="景县电视二套" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="",景县电视二套 (360p)
@@ -397,7 +389,7 @@ http://stream.haixitv.cn/1/sd/live.m3u8
 http://220.180.110.101:8083/videos/live/36/57/hwEHU4UVQ1Iv5/hwEHU4UVQ1Iv5.M3U8
 #EXTINF:-1 tvg-id="34" tvg-name="深圳卫视" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="",深圳卫视 (720p)
 http://223.82.250.72/live/hdshenzhenstv/1.m3u8
-#EXTINF:-1 tvg-id="34" tvg-name="深圳卫视" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="",深圳卫视高清
+#EXTINF:-1 tvg-id="34" tvg-name="深圳卫视" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="",深圳卫视高清 (1080p)
 http://117.169.120.140:8080/live/hdshenzhenstv/.m3u8
 #EXTINF:-1 tvg-id="ShenZhenSheKou.cn" tvg-name="深圳蛇口" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="",深圳蛇口 (1080p)
 http://218.17.99.211:82/hls/d4encs75.m3u8
@@ -517,6 +509,8 @@ http://live1.wuhubtv.com/channel3/sd/live.m3u8
 http://live1.wuhubtv.com/channel1/sd/live.m3u8
 #EXTINF:-1 tvg-id="WuHuShengHuoPinDao.cn" tvg-name="芜湖生活频道" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="",芜湖生活频道 (576p)
 http://live1.wuhubtv.com/channel2/sd/live.m3u8
+#EXTINF:-1 tvg-id="RongChangZongHe.cn" tvg-name="荣昌综合" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="",荣昌综合 (404p)
+http://183.64.181.25:40023/rongchang01.m3u8
 #EXTINF:-1 tvg-id="HuaCangWeiShi.cn" tvg-name="華藏衛視" tvg-country="CN" tvg-language="Chinese" tvg-logo="https://www.hwazan.org/statics/images/newhztv_logo.png" group-title="",華藏衛視 (720p)
 http://118.163.88.61:1935/hwazanlivetv/live.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="HuaZhangWeiShi.tw" tvg-name="華藏衛視" tvg-country="TW" tvg-language="Chinese" tvg-logo="https://www.hwazan.org/statics/images/newhztv_logo.png" group-title="Religious",華藏衛視 (720p)
@@ -537,22 +531,14 @@ https://liveanevia.mncnow.id/live/eds/SCM/sa_dash_vmx/SCM.mpd
 http://hls.hsrtv.cn/hls/hstv2.m3u8
 #EXTINF:-1 tvg-id="HengShuiXinWenZongHe.cn" tvg-name="衡水新闻综合" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="",衡水新闻综合 (720p)
 http://hls.hsrtv.cn/hls/hstv1.m3u8
-#EXTINF:-1 tvg-id="XiAnSiLu.cn" tvg-name="西安丝路" tvg-country="CN" tvg-language="Chinese" tvg-logo="http://www.tvyan.com/uploads/dianshi/xatv5.jpg" group-title="",西安丝路 (576p)
-http://stream2.xiancity.cn/xatv5/playlist.m3u8
 #EXTINF:-1 tvg-id="XiAnLeGouGouWu.cn" tvg-name="西安乐购购物" tvg-country="CN" tvg-language="Chinese" tvg-logo="http://www.66zhibo.net/d/file/2018/0806/af2ee98fb3e3b7fcafb3bbbdae9d7957.jpg" group-title="",西安乐购购物 (576p)
 http://stream2.xiancity.cn/xatv6/playlist.m3u8
 #EXTINF:-1 tvg-id="XiAnShangWuZiXun.cn" tvg-name="西安商务资讯" tvg-country="CN" tvg-language="Chinese" tvg-logo="http://www.tvyan.com/uploads/dianshi/xatv3.jpg" group-title="",西安商务资讯 (576p)
 http://stream2.xiancity.cn/xatv3/playlist.m3u8
 #EXTINF:-1 tvg-id="XiAnYingShi.cn" tvg-name="西安影视" tvg-country="CN" tvg-language="Chinese" tvg-logo="http://www.tvyan.com/uploads/dianshi/xatv4.jpg" group-title="",西安影视 (576p)
 http://stream2.xiancity.cn/xatv4/playlist.m3u8
-#EXTINF:-1 tvg-id="XiAnXinWen.cn" tvg-name="西安新闻" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="",西安新闻 (576p)
-http://stream2.xiancity.cn/xatv1/playlist.m3u8
-#EXTINF:-1 tvg-id="XiAnBaiGe.cn" tvg-name="西安白鸽" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="",西安白鸽 (576p)
-http://stream2.xiancity.cn/xatv2/playlist.m3u8
 #EXTINF:-1 tvg-id="XiShanDianShiTai.cn" tvg-name="西山电视台" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="",西山电视台 (720p)
 http://218.26.97.12:5021/live_hls/1/c01.m3u8
-#EXTINF:-1 tvg-id="71" tvg-name="西藏卫视" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="",西藏卫视
-http://117.169.120.140:8080/live/xizangstv/.m3u8
 #EXTINF:-1 tvg-id="71" tvg-name="西藏卫视" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="",西藏卫视 (576p)
 http://m-tvlmedia.public.bcs.ysten.com/ysten-business/live/xizangstv/1.m3u8
 #EXTINF:-1 tvg-id="XiQingXinWenZongHe.cn" tvg-name="西青新闻综合" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="",西青新闻综合 (1080p)
@@ -623,6 +609,8 @@ http://117.156.28.119/270000001111/1110000147/index.m3u8
 http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 #EXTINF:-1 tvg-id="GaoTaiDianShiTai.cn" tvg-name="高台电视台" tvg-country="CN" tvg-language="Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/2/28/%E7%94%98%E8%82%83%E5%8D%AB%E8%A7%86.png" group-title="",高台电视台 (1080p)
 http://117.156.28.119/270000001111/1110000146/index.m3u8
+#EXTINF:-1 tvg-id="FengHuangZiXun.hk" tvg-name="鳳凰資訊" tvg-country="HK" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/1/16/Phoenix_InfoNews.svg/1200px-Phoenix_InfoNews.svg.png" group-title="News",鳳凰衛視資訊台HD
+http://117.169.120.138:8080/live/fhzixun/.m3u8
 #EXTINF:-1 tvg-id="HeBiXinWenZongHe.cn" tvg-name="鹤壁新闻综合" tvg-country="CN" tvg-language="Chinese" tvg-logo="http://www.tvyan.com/uploads/dianshi/hebi.jpg" group-title="",鹤壁新闻综合 (480p)
 http://pili-live-hls.hebitv.com/hebi/hebi.m3u8
 #EXTINF:-1 tvg-id="HuangHuaYiTao.cn" tvg-name="黄骅一套" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="",黄骅一套 (576p)
