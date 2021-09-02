@@ -85,8 +85,6 @@ http://seb.sason.top/sc/zsxw_fhd.m3u8
 http://220.180.110.101:8083/videos/live/39/13/o4ncrHkSp7q09/o4ncrHkSp7q09.M3U8
 #EXTINF:-1 tvg-id="BoZhouXinWenPinDao.cn" tvg-name="亳州新闻频道" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="",亳州新闻频道 (360p)
 http://220.180.110.101:8083/videos/live/33/59/NC7XQdEveyncq/NC7XQdEveyncq.M3U8
-#EXTINF:-1 tvg-id="JinRiELuoSi.cn" tvg-name="今日俄罗斯" tvg-country="CN" tvg-language="Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/1200px-Russia-today-logo.svg.png" group-title="",今日俄罗斯 (720p)
-https://rt-news-gd.secure2.footprint.net/1103_2500Kb.m3u8
 #EXTINF:-1 tvg-id="YouManKaTon.cn" tvg-name="优漫卡通" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="Kids",优漫卡通 (576p)
 http://m-tvlmedia.public.bcs.ysten.com/ysten-business/live/youmankaton/1.m3u8
 #EXTINF:-1 tvg-id="YuYaoXinWenZongHe.cn" tvg-name="余姚新闻综合" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="",余姚新闻综合 (576p)
@@ -301,6 +299,10 @@ http://223.82.250.72/live/lvyoustv/1.m3u8
 https://n24-cdn-live.ntv.co.jp/ch01/index.m3u8
 #EXTINF:-1 tvg-id="XingKongWeiShi.cn" tvg-name="星空卫视" tvg-country="CN" tvg-language="Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/XingXong.svg/300px-XingXong.svg.png" group-title="",星空卫视
 https://liveanevia.mncnow.id/live/eds/XingKongTV/sa_dash_vmx/XingKongTV.mpd
+#EXTINF:-1 tvg-id="JinZhongGongGong.cn" tvg-name="晋中公共" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="",晋中公共 (1080p)
+http://jzlive.jztvnews.com:90/live/jzgg.m3u8
+#EXTINF:-1 tvg-id="JinZhongZongHe.cn" tvg-name="晋中综合" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="",晋中综合 (1080p)
+http://jzlive.jztvnews.com:90/live/jzzh.m3u8
 #EXTINF:-1 tvg-id="JingXianDianShiYiTao.cn" tvg-name="景县电视一套" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="",景县电视一套 (360p)
 http://hbjx.chinashadt.com:1935/live/stream:jx1.stream_360p/playlist.m3u8
 #EXTINF:-1 tvg-id="JingXianDianShiErTao.cn" tvg-name="景县电视二套" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="",景县电视二套 (360p)
@@ -613,6 +615,8 @@ http://117.156.28.119/270000001111/1110000147/index.m3u8
 http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 #EXTINF:-1 tvg-id="GaoTaiDianShiTai.cn" tvg-name="高台电视台" tvg-country="CN" tvg-language="Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/2/28/%E7%94%98%E8%82%83%E5%8D%AB%E8%A7%86.png" group-title="",高台电视台 (1080p)
 http://117.156.28.119/270000001111/1110000146/index.m3u8
+#EXTINF:-1 tvg-id="FengHuangZiXun.hk" tvg-name="鳳凰資訊" tvg-country="HK" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/1/16/Phoenix_InfoNews.svg/1200px-Phoenix_InfoNews.svg.png" group-title="News",鳳凰衛視資訊台HD
+http://117.169.120.138:8080/live/fhzixun/.m3u8
 #EXTINF:-1 tvg-id="HeBiXinWenZongHe.cn" tvg-name="鹤壁新闻综合" tvg-country="CN" tvg-language="Chinese" tvg-logo="http://www.tvyan.com/uploads/dianshi/hebi.jpg" group-title="",鹤壁新闻综合 (480p)
 http://pili-live-hls.hebitv.com/hebi/hebi.m3u8
 #EXTINF:-1 tvg-id="HuangHuaYiTao.cn" tvg-name="黄骅一套" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="",黄骅一套 (576p)
