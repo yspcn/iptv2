@@ -5,6 +5,8 @@ http://183.207.249.14/PLTV/3/224/3221225588/index.m3u8
 https://cctvcnch5ca.v.wscdns.com/live/cctveurope_2/index.m3u8
 #EXTINF:-1 tvg-id="CCTV8.cn" tvg-name="CCTV-8" tvg-country="CN" tvg-language="Chinese" tvg-logo="https://i.imgur.com/OkLtNrC.jpg" group-title="",CCTV-8 (1080p)
 http://223.110.243.171/PLTV/3/224/3221227204/index.m3u8
+#EXTINF:-1 tvg-id="CCTV10.cn" tvg-name="CCTV10" tvg-country="CN" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/f/fd/CCTV-10_Logo.png" group-title="Education",CCTV中国中央电视台-10 科教 (1080p)
+http://117.169.120.140:8080/live/cctv-10/.m3u8
 #EXTINF:-1 tvg-id="CCTV13.cn" tvg-name="CCTV13" tvg-country="CN" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/0/0b/CCTV-13_Logo.png" group-title="News",CCTV中国中央电视台-13 新闻 (1080p)
 http://117.169.120.140:8080/live/cctv-13/.m3u8
 #EXTINF:-1 tvg-id="CCTV2.cn" tvg-name="CCTV2" tvg-country="CN" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/3/34/CCTV-2_Logo.svg/800px-CCTV-2_Logo.svg.png" group-title="",CCTV中国中央电视台-2 财经 (360p)
@@ -135,14 +137,10 @@ http://streamipcf.akamaized.net/live/_definst_/live_720/key_b1500.m3u8
 http://hnsf.chinashadt.com:2036/zhuanma/tv1.stream_360p/playlist.m3u8
 #EXTINF:-1 tvg-id="TaiShiXinWen.cn" tvg-name="台視新聞" tvg-country="CN" tvg-language="Chinese" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/%E5%8F%B0%E8%A7%86%E6%96%B0%E9%97%BB.png" group-title="",台視新聞 (1080p)
 http://seb.sason.top/sc/tsxw_fhd.m3u8
-#EXTINF:-1 tvg-id="TaiShiXingWen.tw" tvg-name="台視新聞" tvg-country="TW" tvg-language="Chinese" tvg-logo="https://www.ttv.com.tw/news/15/images/TTV-N_logo200-min.png" group-title="News",台視新聞 (1080p)
-http://seb.sason.top/sc/tsxw_fhd.m3u8
 #EXTINF:-1 tvg-id="JiLinXiangCun.cn" tvg-name="吉林乡村" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="",吉林乡村 (900p)
 http://stream1.jlntv.cn/xcpd/sd/live.m3u8
 #EXTINF:-1 tvg-id="JiLinWeiShi.cn" tvg-name="吉林卫视" tvg-country="CN" tvg-language="Chinese" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jilin.png" group-title="",吉林卫视 (1080p)
 http://stream4.jlntv.cn/test2/sd/live.m3u8
-#EXTINF:-1 tvg-id="JiLinWeiShi.cn" tvg-name="吉林卫视" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="",吉林卫视高清
-http://117.169.120.140:8080/live/jilinstv/.m3u8
 #EXTINF:-1 tvg-id="JiLinShanCun.cn" tvg-name="吉林山村" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="",吉林山村 (900p)
 http://stream1.jlntv.cn/xcpd/sd/live.m3u8?_upt=ed8b01841531576074
 #EXTINF:-1 tvg-id="WuJiangXinWenZongHe.cn" tvg-name="吴江新闻综合" tvg-country="CN" tvg-language="Chinese" tvg-logo="http://www.tvyan.com/uploads/dianshi/wujiangtv.jpg" group-title="",吴江新闻综合 (720p) [Not 24/7]
@@ -625,6 +623,10 @@ http://117.156.28.119/270000001111/1110000146/index.m3u8
 http://117.169.120.138:8080/live/fhzixun/.m3u8
 #EXTINF:-1 tvg-id="HeBiXinWenZongHe.cn" tvg-name="鹤壁新闻综合" tvg-country="CN" tvg-language="Chinese" tvg-logo="http://www.tvyan.com/uploads/dianshi/hebi.jpg" group-title="",鹤壁新闻综合 (480p)
 http://pili-live-hls.hebitv.com/hebi/hebi.m3u8
+#EXTINF:-1 tvg-id="LuQuanYiTao.cn" tvg-name="鹿泉一套" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="",鹿泉一套 (576p) [Not 24/7]
+http://hblq.chinashadt.com:2036/live/stream:luquan1.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="LuQuanErTao.cn" tvg-name="鹿泉二套" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="",鹿泉二套 (576p) [Not 24/7]
+http://hblq.chinashadt.com:2036/live/stream:luquan2.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="HuangHuaYiTao.cn" tvg-name="黄骅一套" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="",黄骅一套 (576p)
 http://hbhh.chinashadt.com:2111/live/hhtv.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="HuangHuaErTao.cn" tvg-name="黄骅二套" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="",黄骅二套 (576p)
