@@ -75,6 +75,8 @@ http://hls.weathertv.cn/tslslive/qCFIfHB/hls/live_sd.m3u8
 http://seb.sason.top/sc/ztxw_fhd.m3u8
 #EXTINF:-1 tvg-id="ZhongTianXingWen.tw" tvg-name="中天新聞" tvg-country="TW" tvg-language="Chinese" tvg-logo="https://piceltaott-elta.cdn.hinet.net/upload/channel/908.png" group-title="News",中天新聞 (1080p)
 http://seb.sason.top/sc/ztxw_fhd.m3u8
+#EXTINF:-1 tvg-id="ZhongShanGongGong.cn" tvg-name="中山公共" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="",中山公共 (480p)
+http://dslive.grtn.cn/zszh/sd/live.m3u8
 #EXTINF:-1 tvg-id="ZhongMouZongHePinDao.cn" tvg-name="中牟综合频道" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="",中牟综合频道 (360p)
 http://218.206.193.210:9850/playServer/acquirePlayService?deviceGroup=TV(STB)&drmType=none&kdsplayer=media&nsukey=&op=sovp&playType=catchup&protocol=hls0&redirect=m3u8&resourceId=1000000000000001&type=live
 #EXTINF:-1 tvg-id="ZhongShiXinWen.cn" tvg-name="中視新聞" tvg-country="CN" tvg-language="Chinese" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/%E4%B8%AD%E8%A7%86%E6%96%B0%E9%97%BB.png" group-title="",中視新聞 (1080p)
@@ -97,12 +99,8 @@ http://live.china-latv.com/channel2/playlist.m3u8
 http://live.china-latv.com/channel1/playlist.m3u8
 #EXTINF:-1 tvg-id="NeiMengGuWeiShi.cn" tvg-name="内蒙古卫视" tvg-country="CN" tvg-language="Chinese" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/neimeng.png" group-title="",内蒙古卫视
 http://117.169.120.140:8080/live/neimenggustv/.m3u8
-#EXTINF:-1 tvg-id="NeiMengGuWeiShi.cn" tvg-name="内蒙古卫视" tvg-country="CN" tvg-language="Chinese" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/neimeng.png" group-title="",内蒙古卫视 (1080p)
-http://live.m2oplus.nmtv.cn/1/playlist.m3u8
 #EXTINF:-1 tvg-id="NeiMengGuWeiShi.cn" tvg-name="内蒙古卫视" tvg-country="CN" tvg-language="Chinese" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/neimeng.png" group-title="",内蒙古卫视 (576p)
 http://m-tvlmedia.public.bcs.ysten.com/ysten-business/live/neimenggustv/1.m3u8
-#EXTINF:-1 tvg-id="FengTaiZongHePinDao.cn" tvg-name="凤台综合频道" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="",凤台综合频道 (576p)
-http://60.175.115.119:1935/live/zonghe/playlist.m3u8
 #EXTINF:-1 tvg-id="LiChuanGongGongPinDao.cn" tvg-name="利川公共频道" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="",利川公共频道 (576p)
 http://lichuan.live.tempsource.cjyun.org/videotmp/s10093-lcgg.m3u8
 #EXTINF:-1 tvg-id="BeiJingWeiShi.cn" tvg-name="北京卫视" tvg-country="CN" tvg-language="Chinese" tvg-logo="https://parco-zh.github.io/demo/bjbtv.jpg" group-title="",北京卫视 (576p)
@@ -195,8 +193,6 @@ http://117.169.120.140:8080/live/ningxiastv/.m3u8
 http://m-tvlmedia.public.bcs.ysten.com/ysten-business/live/ningxiastv/1.m3u8
 #EXTINF:-1 tvg-id="AnHuiWeiShi.cn" tvg-name="安徽卫视" tvg-country="CN" tvg-language="Chinese" tvg-logo="http://s.wasu.cn/data/images/201512/24/567b9d7479d83.png" group-title="",安徽卫视 (576p)
 http://223.110.245.143/ott.js.chinamobile.com/PLTV/3/224/3221225800/index.m3u8
-#EXTINF:-1 tvg-id="YiXingXinWenPinDao.cn" tvg-name="宜兴新闻频道" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="",宜兴新闻频道 (720p)
-http://live-dft-hls-yf.jstv.com/live/yixing_xw/online.m3u8
 #EXTINF:-1 tvg-id="YiXingDianShiZiShaPinDao.cn" tvg-name="宜兴电视紫砂频道" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="",宜兴电视紫砂频道 (720p)
 http://live-dft-hls-yf.jstv.com/live/yixing_zs/online.m3u8
 #EXTINF:-1 tvg-id="SuZhouGongGongPinDao.cn" tvg-name="宿州公共频道" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="",宿州公共频道 (1080p)
@@ -533,8 +529,6 @@ https://liveanevia.mncnow.id/live/eds/SCMlegend/sa_dash_vmx/SCMlegend.mpd
 https://liveanevia.mncnow.id/live/eds/SCM/sa_dash_vmx/SCM.mpd
 #EXTINF:-1 tvg-id="HengShuiYingShiYuLe.cn" tvg-name="衡水影视娱乐" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="",衡水影视娱乐 [Not 24/7]
 http://hls.hsrtv.cn/hls/hstv2.m3u8
-#EXTINF:-1 tvg-id="HengShuiXinWenZongHe.cn" tvg-name="衡水新闻综合" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="",衡水新闻综合 (720p)
-http://hls.hsrtv.cn/hls/hstv1.m3u8
 #EXTINF:-1 tvg-id="XiAnSiLu.cn" tvg-name="西安丝路" tvg-country="CN" tvg-language="Chinese" tvg-logo="http://www.tvyan.com/uploads/dianshi/xatv5.jpg" group-title="",西安丝路 (576p)
 http://stream2.xiancity.cn/xatv5/playlist.m3u8
 #EXTINF:-1 tvg-id="XiAnLeGouGouWu.cn" tvg-name="西安乐购购物" tvg-country="CN" tvg-language="Chinese" tvg-logo="http://www.66zhibo.net/d/file/2018/0806/af2ee98fb3e3b7fcafb3bbbdae9d7957.jpg" group-title="",西安乐购购物 (576p)
@@ -609,14 +603,8 @@ http://hblh.chinashadt.com:2036/live/stream:lh1.stream/playlist.m3u8
 http://ahhs.chinashadt.com:1936/live/stream:hs1.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="QingZhouWenHuaLuYou.cn" tvg-name="青州文化旅游" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="",青州文化旅游 (576p)
 http://sdqz.chinashadt.com:2036/live/stream:3.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="QingZhouShengHuoPinDao.cn" tvg-name="青州生活频道" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="",青州生活频道 (576p)
-http://sdqz.chinashadt.com:2036/live/stream:2.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="QingZhouZongHePinDao.cn" tvg-name="青州综合频道" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="",青州综合频道 (576p)
-http://sdqz.chinashadt.com:2036/live/stream:1.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="JingJiangXinWenZongHeGaoQing.cn" tvg-name="靖江新闻綜合高清" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="",靖江新闻綜合高清 (720p)
 http://58.222.151.43:1935/live/xwzhpc/playlist.m3u8
-#EXTINF:-1 tvg-id="JingNingZongHe.cn" tvg-name="静宁综合" tvg-country="CN" tvg-language="Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/2/28/%E7%94%98%E8%82%83%E5%8D%AB%E8%A7%86.png" group-title="",静宁综合 (1080p)
-http://117.156.28.119/270000001111/1110000147/index.m3u8
 #EXTINF:-1 tvg-id="XiangGangWeiShi.hk" tvg-name="香港衛視" tvg-country="HK" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://i.imgur.com/wnQPn2d.jpg" group-title="",香港衛視 (576p) [Not 24/7]
 http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 #EXTINF:-1 tvg-id="GaoTaiDianShiTai.cn" tvg-name="高台电视台" tvg-country="CN" tvg-language="Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/2/28/%E7%94%98%E8%82%83%E5%8D%AB%E8%A7%86.png" group-title="",高台电视台 (1080p)
