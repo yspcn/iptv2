@@ -201,14 +201,6 @@ http://nanchuanlive.cbg.cn:30000/2222.m3u8
 http://149.129.100.78/guangdong.php?id=51
 #EXTINF:-1 tvg-id="NanFangGouWu.cn" tvg-name="南方购物" tvg-country="CN" tvg-language="" tvg-logo="" group-title="",南方购物 (540p)
 http://149.129.100.78/guangdong.php?id=42
-#EXTINF:-1 tvg-id="NanTongGongGong.cn" tvg-name="南通公共" tvg-country="CN" tvg-language="" tvg-logo="" group-title="",南通公共
-http://149.129.100.78/nantong.php?id=gg
-#EXTINF:-1 tvg-id="NanTongJiaoYu.cn" tvg-name="南通教育" tvg-country="CN" tvg-language="" tvg-logo="" group-title="",南通教育
-http://149.129.100.78/nantong.php?id=sj
-#EXTINF:-1 tvg-id="NanTongWenHuaLuYou.cn" tvg-name="南通文化旅游" tvg-country="CN" tvg-language="" tvg-logo="" group-title="",南通文化旅游
-http://149.129.100.78/nantong.php?id=ly
-#EXTINF:-1 tvg-id="NanTongXinWenZongHe.cn" tvg-name="南通新闻综合" tvg-country="CN" tvg-language="" tvg-logo="" group-title="",南通新闻综合
-http://149.129.100.78/nantong.php?id=zh
 #EXTINF:-1 tvg-id="NanYangXinWenPinDao.cn" tvg-name="南阳新闻频道" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="",南阳新闻频道 (600p) [Not 24/7]
 http://30539.hlsplay.aodianyun.com/lms_30539/tv_channel_142.m3u8
 #EXTINF:-1 tvg-id="YuanZhuMinDianShi.cn" tvg-name="原住民電視" tvg-country="CN" tvg-language="Chinese" tvg-logo="http://titv.ipcf.org.tw/images/logo.png?v1.1" group-title="",原住民電視 (720p)
@@ -803,6 +795,8 @@ http://gddb.chinashadt.com:1935/live/video2.stream/playlist.m3u8
 http://gddb.chinashadt.com:1935/live/video2.stream_360p/playlist.m3u8
 #EXTINF:-1 tvg-id="JingCaiAnHui.cn" tvg-name="睛彩安徽" tvg-country="CN" tvg-language="" tvg-logo="https://ss1.baidu.com/-4o3dSag_xI4khGko9WTAnF6hhy/baike/w=268;g=0/sign=99d4887928a446237ecaa264a0191533/3ac79f3df8dcd1004e570a227a8b4710b8122fee.jpg" group-title="",睛彩安徽 (576p)
 http://149.129.100.78/anhui.php?id=85
+#EXTINF:-1 tvg-id="ShiJingShanDianShiTai.cn" tvg-name="石景山电视台" tvg-country="CN" tvg-language="" tvg-logo="" group-title="",石景山电视台 (1080p)
+http://live.sjsrm.com/bjsjs/sd/live.m3u8
 #EXTINF:-1 tvg-id="FuZhouShaoEr.cn" tvg-name="福州少儿" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="Kids",福州少儿 (1080p)
 http://live.zohi.tv/video/s10001-sepd-4/index.m3u8
 #EXTINF:-1 tvg-id="FuZhouYingShi.cn" tvg-name="福州影视" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="",福州影视 (1080p)
