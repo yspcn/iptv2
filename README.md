@@ -1,5 +1,7 @@
  **IPTV 频道 电视 直播 源 每天检测维护有效性** 
 
+直播源订阅地址: https://gitee.com/be_fine/iptv/raw/master/iptv.txt
+
 
 
 
