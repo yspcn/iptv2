@@ -107,8 +107,6 @@ http://stream.jinjiang.tv/1/sd/live.m3u8
 http://live.china-latv.com/channel2/playlist.m3u8
 #EXTINF:-1 tvg-id="LiuAnXinWenZongHe.cn" tvg-country="CN" tvg-language="Chinese" tvg-logo="http://www.china-latv.com/t/icon/201901/20190107160038YJK.png" group-title="",六安新闻综合 (720p)
 http://live.china-latv.com/channel1/playlist.m3u8
-#EXTINF:-1 tvg-id="NeiMengGuWeiShi.cn" tvg-country="CN" tvg-language="Chinese" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/neimeng.png" group-title="",内蒙古卫视 (576p)
-http://117.169.120.140:8080/live/neimenggustv/.m3u8
 #EXTINF:-1 tvg-id="NeiMengGuWeiShi.cn" tvg-country="CN" tvg-language="Chinese" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/neimeng.png" group-title="",内蒙古卫视 (1080p)
 http://live.m2oplus.nmtv.cn/1/playlist.m3u8
 #EXTINF:-1 tvg-id="FengTaiWenHuaShengHuo.cn" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="",凤台文化生活 (576p) [Not 24/7]
