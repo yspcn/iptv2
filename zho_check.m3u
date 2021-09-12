@@ -107,6 +107,8 @@ http://stream.jinjiang.tv/1/sd/live.m3u8
 http://live.china-latv.com/channel2/playlist.m3u8
 #EXTINF:-1 tvg-id="LiuAnXinWenZongHe.cn" tvg-country="CN" tvg-language="Chinese" tvg-logo="http://www.china-latv.com/t/icon/201901/20190107160038YJK.png" group-title="",六安新闻综合 (720p)
 http://live.china-latv.com/channel1/playlist.m3u8
+#EXTINF:-1 tvg-id="NeiMengGuWeiShi.cn" tvg-country="CN" tvg-language="Chinese" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/neimeng.png" group-title="",内蒙古卫视 (576p)
+http://117.169.120.140:8080/live/neimenggustv/.m3u8
 #EXTINF:-1 tvg-id="NeiMengGuWeiShi.cn" tvg-country="CN" tvg-language="Chinese" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/neimeng.png" group-title="",内蒙古卫视 (1080p)
 http://live.m2oplus.nmtv.cn/1/playlist.m3u8
 #EXTINF:-1 tvg-id="FengTaiWenHuaShengHuo.cn" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="",凤台文化生活 (576p) [Not 24/7]
@@ -137,8 +139,6 @@ http://live.nbs.cn/channels/njtv/shpd/m3u8:500k/live.m3u8
 http://221.5.213.4:30000/1111.m3u8
 #EXTINF:-1 tvg-id="NanChuanLuYouJingJi.cn" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="",南川旅游经济 (360p)
 http://221.5.213.4:30000/2222.m3u8
-#EXTINF:-1 tvg-id="NanYangXinWenPinDao.cn" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="",南阳新闻频道 (600p) [Not 24/7]
-http://30539.hlsplay.aodianyun.com/lms_30539/tv_channel_142.m3u8
 #EXTINF:-1 tvg-id="YuanZhuMinDianShi.cn" tvg-country="CN" tvg-language="Chinese" tvg-logo="http://titv.ipcf.org.tw/images/logo.png?v1.1" group-title="",原住民電視 (720p)
 http://streamipcf.akamaized.net/live/_definst_/live_720/key_b1500.m3u8
 #EXTINF:-1 tvg-id="YuanZuMin.tw" tvg-country="TW" tvg-language="Chinese" tvg-logo="http://titv.ipcf.org.tw/images/logo.png" group-title="General",原住民電視 (720p)
@@ -195,6 +195,8 @@ http://218.77.102.118:1935/live/zonghe_iphone/playlist.m3u8
 http://117.169.120.140:8080/live/ningxiastv/.m3u8
 #EXTINF:-1 tvg-id="AnHuiWeiShi.cn" tvg-country="CN" tvg-language="Chinese" tvg-logo="http://s.wasu.cn/data/images/201512/24/567b9d7479d83.png" group-title="",安徽卫视 (576p)
 http://223.110.245.143/ott.js.chinamobile.com/PLTV/3/224/3221225800/index.m3u8
+#EXTINF:-1 tvg-id="YiXingXinWenPinDao.cn" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="",宜兴新闻频道 (720p)
+http://live-dft-hls-yf.jstv.com/live/yixing_xw/online.m3u8
 #EXTINF:-1 tvg-id="YiXingDianShiZiShaPinDao.cn" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="",宜兴电视紫砂频道 (720p)
 http://live-dft-hls-yf.jstv.com/live/yixing_zs/online.m3u8
 #EXTINF:-1 tvg-id="SuZhouGongGongPinDao.cn" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="",宿州公共频道 (1080p)
@@ -227,8 +229,6 @@ http://m-tvlmedia.public.bcs.ysten.com/ysten-business/live/hdguangdongstv/1.m3u8
 http://223.82.250.72/live/guangxistv/1.m3u8
 #EXTINF:-1 tvg-id="YanBianWeiShi.cn" tvg-country="CN" tvg-language="Chinese" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/YANBIAN1.png" group-title="",延边卫视 (720p)
 http://live.ybtvyun.com/video/s10016-7e5f23de35df/index.m3u8
-#EXTINF:-1 tvg-id="KaiZhouZongHePinDao.cn" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="",开州综合频道 (720p)
-http://kaixianlive.cbg.cn:10345/1.m3u8
 #EXTINF:-1 tvg-id="ZhangJiaKouYiTao.cn" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="",张家口一套 (720p)
 http://nlive.zjkgdcs.com:8091/live/xwzhpd.m3u8
 #EXTINF:-1 tvg-id="ZhangJiaGangXinWenZongHe.cn" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="",张家港新闻综合 (720p)
