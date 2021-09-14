@@ -1,5 +1,5 @@
  **IPTV 频道 电视 直播 源 每天检测维护有效性** 
-
+复刻自此 https://gitee.com/be_fine/iptv?_from=gitee_search
 
  > **IPTV 微信小程序版** 
 
